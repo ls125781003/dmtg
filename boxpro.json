@@ -1,5 +1,5 @@
 {
-"spider": "https://gitcode.net/ls125781003/dmtg/-/raw/master/0715.jar",
+"spider": "https://raw.githubusercontent.com/ls125781003/dmtg/dd58c98e36524d1280133407ae323e735ec9e55a/0715.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
