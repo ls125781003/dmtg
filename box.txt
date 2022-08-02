@@ -2,7 +2,7 @@
 
 
 
-"spider": "https://gitcode.net/ls125781003/dmtg/-/raw/master/custom_spider0704.jar",
+"spider": "https://raw.githubusercontent.com/ls125781003/dmtg/dd58c98e36524d1280133407ae323e735ec9e55a/custom_spider0704.jar",
 
 
 
