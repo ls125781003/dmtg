@@ -1,0 +1,420 @@
+{
+"targetVersion":5,
+"version4Link":"",
+"name":"测试解析订阅",
+"author":"XL",
+"contact":"ls125781003@petalmail.com",
+"message":"此订阅为测试解析订阅，有些解析可能已失效。(请长按自定义数据-初始化，进行手动更新！！！)注：此订阅仅用于测试,请于24小时内删除",
+"editable":false,
+
+"searchConfig":[
+
+],
+"searchManager":{},
+"analysisApi":{
+
+"JY":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.playerjy.com/?url={ItemUrlOrId}"
+ },
+"铭人":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://parse.mw0.cc/?url={ItemUrlOrId}"
+ },
+"又加":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://cv.htoo.vip/?url={ItemUrlOrId}"
+ },
+"blbo":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.blbo.cc:4433/?url={ItemUrlOrId}"
+ },
+"猪蹄影院1":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://api.iztyy.com/jiexi/?url={ItemUrlOrId}"
+ },
+"猪蹄影院2":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.iztyy.com/svip/?url={ItemUrlOrId}"
+ },
+"猪蹄影院3":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.iztyy.com/Bei/?url={ItemUrlOrId}"
+ },
+"mmkv":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://vip.mmkv.cn/tv.php?url={ItemUrlOrId}"
+ },
+"60jx":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://60jx.com/?url={ItemUrlOrId}"
+ },
+"180解析":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.000180.top/jx/?url={ItemUrlOrId}"
+ },
+"parwix1":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.parwix.com:4433/player/?url={ItemUrlOrId}"
+ },
+"parwix2":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.parwix.com:4433/player/analysis.php?v={ItemUrlOrId}"
+ },
+"7K":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.7kjx.com/?url={ItemUrlOrId}"
+ },
+"全民解析1":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.quanmingjiexi.com/?url={ItemUrlOrId}"
+ },
+"全民解析2":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://chaxun.truechat365.com/?url={ItemUrlOrId}"
+ },
+"云boys":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.yunboys.cn/?url={ItemUrlOrId}"
+ },
+"OK解析":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://api.okjx.cc:3389/jx.php?url={ItemUrlOrId}"
+ },
+"夜幕1":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.yemu.xyz/v/c.php?url={ItemUrlOrId}"
+ },
+"夜幕2":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.yemu.xyz/v/dmgs.php?url={ItemUrlOrId}"
+ },
+"夜幕3":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.yemu.xyz/v/d.php?url={ItemUrlOrId}"
+ },
+"夜幕4":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.yemu.xyz/v/e.php?url={ItemUrlOrId}"
+ },
+"夜幕5":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.yemu.xyz/v/bili.php?url={ItemUrlOrId}"
+ },
+"123mingren":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://parse.123mingren.com/?url={ItemUrlOrId}"
+ },
+"大树":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.wlssys.xyz/vip.php?url={ItemUrlOrId}"
+ },
+"大亨":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://jx.13tv.top/?url={ItemUrlOrId}"
+ },
+"云析N":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://yparse.jn1.cc/index.php?url={ItemUrlOrId}"
+ },
+"爱解":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jiexi.t7g.cn/?url={ItemUrlOrId}"
+ },
+"遇见":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.yujiannk.com/?url={ItemUrlOrId}"
+ },
+"云云":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://159.75.133.231:81/jiexi/?url={ItemUrlOrId}"
+ },
+"叻簇":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://lecurl.cn/?url={ItemUrlOrId}"
+ },
+"哔哩":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.mtosz.com/m3u8.php?url={ItemUrlOrId}"
+ },
+"17云备用":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.1717yun.com/beiyong/?url={ItemUrlOrId}"
+ },
+"淘影A":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://jx.1080jx.top/vipjx/?url={ItemUrlOrId}"
+ },
+"淘影B":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://jx.1080jx.top/jxvip/?url={ItemUrlOrId}"
+ },
+"淘影C":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://jx.1080jx.top/m3u8/?url={ItemUrlOrId}"
+ },
+"淘影E":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://jx.1080jx.top/api/?url={ItemUrlOrId}"
+ },
+"淘影F":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://jx.1080jx.top/jiexi/?url={ItemUrlOrId}"
+ },
+"八一":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://vip.8bys.cn/?url={ItemUrlOrId}"
+ },
+"宝莲":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://danmu.8old.cn/vip/?url={ItemUrlOrId}"
+ },
+"追剧达人":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://vip123kan.vip/m3u8.php?url={ItemUrlOrId}"
+ },
+"M2090":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://m2090.com/?url={ItemUrlOrId}"
+ },
+"人人迷":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.renrenmi.cc/?url={ItemUrlOrId}"
+ },
+"夷狄":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://sb.5gseo.net/?url={ItemUrlOrId}"
+ },
+"chok吧":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://gai4.gitee.io/chok/jx.html?url={ItemUrlOrId}"
+ },
+"七哥":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.mmkv.cn/tv.php?url={ItemUrlOrId}"
+ },
+"万能星驰":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://vip.swuii.top/?url={ItemUrlOrId}"
+ },
+"百度":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jsap.88wuma.com/?url={ItemUrlOrId}"
+ },
+"Mao全网解析":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://lecurl.cn/?url={ItemUrlOrId}"
+ },
+"YiTV":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://jiexi.us/?url={ItemUrlOrId}"
+ },
+"江湖云解析":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://api.jhdyw.vip/?url={ItemUrlOrId}"
+ },
+"猪蹄":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.iztyy.com/svip/?url={ItemUrlOrId}"
+ },
+"云解析线路1":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.aidouer.net/?url={ItemUrlOrId}"
+ },
+"云解析线路2":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.ppflv.com/?url={ItemUrlOrId}"
+ },
+"云解析线路3":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.duzheba.cn/?url={ItemUrlOrId}"
+ },
+"TNVIP云播放":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://www.33tn.cn/?url={ItemUrlOrId}"
+ },
+"思云":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.ap2p.cn/?url={ItemUrlOrId}"
+ },
+"m3u8":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://jx.rdhk.net/?v={ItemUrlOrId}"
+ },
+"虾米":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.xmflv.com/?url={ItemUrlOrId}"
+ },
+"虾米":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.xmflv.com/?url={ItemUrlOrId}"
+ },
+"夷狄":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://api.1dior.cn/analysis/123/index.php?uid=1428&my=afkruDFIYZ&url={ItemUrlOrId}"
+ },
+"云波":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://zy.aoxtv.com/?url={ItemUrlOrId}"
+ },
+"久已":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.91jxs.com/jiexi/?url={ItemUrlOrId}"
+ },
+"盒子":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://jx5.178du.com/p1/?url={ItemUrlOrId}"
+ },
+"17云":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://17kyun.com/api.php?url={ItemUrlOrId}"
+ },
+"CKMOV":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://ckmov.ccyjjd.com/ckmov/?url={ItemUrlOrId}"
+ },
+"M1907":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://z1.m1907.cn/?jx={ItemUrlOrId}"
+ },
+"B站解析1":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://vip.parwix.com:4433/player/?url={ItemUrlOrId}"
+ },
+"B站解析2":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.cuan.la/m3u8.php?url={ItemUrlOrId}"
+ },
+"BL":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://vip.bljiex.com/?v={ItemUrlOrId}"
+ }, 
+"CK":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.ckplayer.vip/jiexi/?url={ItemUrlOrId}"
+ }, 
+"CHok":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.gai4.com/?url={ItemUrlOrId}"
+ }, 
+"ELW":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.elwtc.com/vip/?url={ItemUrlOrId}"
+ }, 
+"冰豆":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://api.qianqi.net/vip/?url={ItemUrlOrId}"
+ }, 
+"ckmov":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.ckmov.vip/api.php?url={ItemUrlOrId}"
+ }, 
+"大幕":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.52damu.com/?url={ItemUrlOrId}"
+ }, 
+"迪奥":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://123.1dior.cn/?url={ItemUrlOrId}"
+ }, 
+"RDHK":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.rdhk.net/?v={ItemUrlOrId}"
+ }, 
+"H8":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.h8jx.com/jiexi.php?url={ItemUrlOrId}"
+ }, 
+"解析la":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://api.jiexi.la/?url={ItemUrlOrId}"
+ }, 
+"九八":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.youyitv.com/?url={ItemUrlOrId}"
+ }, 
+"老板":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://vip.laobandq.com/jiexi.php?url={ItemUrlOrId}"
+ }, 
+"M3U8":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.m3u8.tv/jiexi/?url={ItemUrlOrId}"
+ }, 
+"MUTV":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jiexi.janan.net/jiexi/?url={ItemUrlOrId}"
+ }, 
+"诺诺":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.ckmov.com/?url={ItemUrlOrId}"
+ }, 
+"诺讯":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.nxflv.com/?url={ItemUrlOrId}"
+ }, 
+"OK":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://okjx.cc/?url={ItemUrlOrId}"
+ }, 
+"PM":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.playm3u8.cn/jiexi.php?url={ItemUrlOrId}"
+ }, 
+"思云":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.ap2p.cn/?url={ItemUrlOrId}"
+ }, 
+"百度/颜亦":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jsap.attakids.com/?url={ItemUrlOrId}"
+ }, 
+"维多":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.ivito.cn/?url={ItemUrlOrId}"
+ }, 
+"无名":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.administratorw.com/video.php?url={ItemUrlOrId}"
+ }, 
+"小蒋":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.kpezp.cn/jlexi.php?url={ItemUrlOrId}"
+ }, 
+"星空":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"http://60jx.com/?url={ItemUrlOrId}"
+ }, 
+"云端":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.ergan.top/?url={ItemUrlOrId}"
+ }, 
+"云析":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.yparse.com/index.php?url={ItemUrlOrId}"
+ }, 
+"17云":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.1717yun.com/jx/ty.php?url={ItemUrlOrId}"
+ },
+"33t":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.33tn.cn/?url={ItemUrlOrId}"
+ },
+"973":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://jx.973973.xyz/?url={ItemUrlOrId}"
+ },
+"8090":{
+  "apiSupport":["iqiyi","qq","youku","mgtv","sohu","bilibili","pptv","1905","miguvideo","ixigua"],
+  "apiUrl":"https://www.8090g.cn/?url={ItemUrlOrId}"
+ }
+},
+"sniffUrlSkip":{},
+"televisionList":[],
+"fastVideoList":[]
+
+}
+
+
+
