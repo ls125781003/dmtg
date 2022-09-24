@@ -2,7 +2,7 @@
 
 
 
-"spider": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/dd58c98e36524d1280133407ae323e735ec9e55a/tb0730.jar",
+"spider": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/tb0730.jar",
 
 
 
