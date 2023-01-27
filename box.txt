@@ -1273,19 +1273,7 @@
 	],
 	"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives": [
-		{
-			"group": "redirect",
-			"channels": [
-				{
-					"name": "live",
-					"urls": [
-						"proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
-					]
-				}
-			]
-		}
-	],
+	 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 	"parses": [
 		{
 			"name": "解析聚合",
