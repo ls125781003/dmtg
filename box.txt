@@ -5,15 +5,8 @@
 //"spider": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/xy1007.jar",
 
 
-"wallpaper": "http://刚刚.live/图",
-	//直播由群友提供~
-	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
-		}]
-	}],
+# 直播
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 	"sites": [
 		{
 			"key": "小苹果",
