@@ -2,9 +2,6 @@
 
 
 
-//"spider": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/xy1007.jar",
-
-
 	"sites": [
 		{
 			"key": "小苹果",
