@@ -88,6 +88,10 @@
       "apiUrl": "https://www.h8jx.com/jiexi.php?url={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
     },
+     "RDHK": {
+      "apiUrl": "https://jx.rdhk.net/?v={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },
     "BL": {
       "apiUrl": "https://vip.bljiex.com/?v={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
@@ -138,6 +142,10 @@
     },
         "180": {
       "apiUrl": "https://jx.000180.top/jx/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    },
+     "思古3": {
+      "apiUrl": "https://jsap.attakids.com/?url={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
     },
         "无名": {
