@@ -23,10 +23,10 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈免费接口，请勿贩售",
+            "name": "🌈豆瓣网",
             "type": 3,
-            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/drpy.js",
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -35,7 +35,7 @@
    
 
 {"key":"dr_豆瓣","name":"🎞豆瓣首页","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"Xinsj","name":"🌟新视觉","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080dy2.com"},
+  {      "key": "csp_Xinsj",      "name": "🎗️新视觉",      "type": 3,      "api": "csp_Xinsj",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://www.6080dy3.com"    }, 
 {"key":"csp_panghu","name":"🐯胖虎影视","type":3,"api":"csp_Panghu","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {
             "key": "YQK_spider",
@@ -89,7 +89,7 @@
             "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"
         },
- {"key" : "Alist1","name" :"🅿AlisT网盘","type" : 3,"api" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/alist.min.js","ext" : "https://jihulab.com/ygbh1/box/-/raw/main/json/alist.json"},       
+  {      "key": "csp_Alist1",      "name": "🅿Alist┃网盘",      "type": 3,      "api": "csp_AList",      "searchable": 1,      "quickSearch": 0,      "filterable": 0,      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/cangku/alist.json"    },     
 {"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0","ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"},
   {"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/json/555.json"},
 
@@ -499,7 +499,7 @@
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]}
 ],
-"wallpaper":"https://picsum.photos/1080/","warningText":"完全免费，切勿付费购买。",
+"wallpaper":"https://picsum.photos/1080/","warningText":"接口完全免费，切勿付费购买。",
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
 }
 
