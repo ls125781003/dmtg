@@ -171,9 +171,9 @@
     "id": 14
   },   
   {
-    "key": "诺讯资源",
-    "name": "诺讯资源",
-    "api": "http://caiji.nxflv.com/api.php/provide/vod/",
+    "key": "易看资源",
+    "name": "易看资源",
+    "api": "https://api.yikanapi.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -183,9 +183,9 @@
     "id": 15
   },
   {
-    "key": "小猫咪",
-    "name": "小猫咪",
-    "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+    "key": "酷点资源",
+    "name": "酷点资源",
+    "api": "https://kudianzy.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -231,9 +231,9 @@
     "id": 19
   },
   {
-    "key": "OK资源",
-    "name": "OK资源",
-    "api": "https://www.okcj.site/api/provide/vod/",
+    "key": "闪电资源",
+    "name": "闪电资源",
+    "api": "http://sdzyapi.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
