@@ -1,7 +1,6 @@
 {
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/0324.jar",
-
- //"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
+//"spider": "https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/0324.jar",
+"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/yg426.jar;md5;5F336F6DE028983FEF9F3C8EA638DFB0",
 
 "lives":[
 
@@ -37,18 +36,7 @@
 {"key":"dr_豆瓣","name":"🎞豆瓣首页","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
   {      "key": "csp_Xinsj",      "name": "🎗️新视觉",      "type": 3,      "api": "csp_Xinsj",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://www.6080dy3.com"    }, 
 {"key":"csp_panghu","name":"🐯胖虎影视","type":3,"api":"csp_Panghu","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-{
-            "key": "YQK_spider",
-            "name": "🎎一起看电视",
-            "api": "csp_YQKAPP",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://api-tx.11ty.top",
-            "m3u8ads": "hd.youyhn.com"
-        },
+{"key":"csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 { 
    "key": "直播转点播", 
    "name": "🐼电视直播", 
@@ -62,17 +50,9 @@
     
     {"key":"csp_Kunyu77","name":"👒七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
-{
-            "key": "csp_BuLei",
-            "name": "👁️布雷蓝光",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://v.bulei.cc"
-        },
-        {"key":"csp_MeiJu69","name":"🗽69美剧","type":3,"api":"csp_MeiJu69","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
+{"key":"csp_BuLei","name":"🎯布雷蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"},
+       {"key":"csp_MeiJu69","name":"🗽69美剧┃直连","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+
      {"key":"csp_Lgyy","name":"🌀蓝光直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
        {
@@ -135,7 +115,8 @@
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_fantuan","name":"🍙饭团影视","type":3,"api":"csp_Fantuan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Bttoo","name":"🐞两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"七夜","name":"😾七夜4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
 {"key":"Gitcafe","name":"📜纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/alitoken"},
     {"key":"Upso","name":"☁️云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/alitoken"},
     {"key":"Zhaozy","name":"🗽资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"},
@@ -437,18 +418,18 @@
  { "name": "TVB云播","type": 1,"url": "https://jxm.qwrev534.top/?url="},
 
  {"name":"777","type": 0,"url":"https://jx.777jiexi.com/player/?url="},
- {"name": "codermart","type":0,"url":"https://jxdp.codermart.net/?url="},
+ {"name": "1","type":0,"url":"https://jxdp.codermart.net/?url="},
  {"name":"AG","type":0,"url":"https://www.codjx.com/?url="},
  {
-      "name": "xmflv",
+      "name": "jx1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
-{"name":"ysm","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"fuqizhishi","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-{"name":"tljiaqing","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
-{"name":"解析0","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
-{"name":"解析1","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+{"name":"jx2","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"jx3","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
+{"name":"jx4","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
+{"name":"jx5","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
+{"name":"解析","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"解析2","type":1,"url":"rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"解析4","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"解析5","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
