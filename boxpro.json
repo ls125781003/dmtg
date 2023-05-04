@@ -1,7 +1,7 @@
 {
 //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/0324.jar",
 "spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/yg426.jar;md5;5F336F6DE028983FEF9F3C8EA638DFB0",
-
+//"spider":"./yg426.jar",
 "lives":[
 
 
@@ -22,7 +22,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈豆瓣网",
+            "name": "🌈豆瓣",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
             "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",
@@ -204,15 +204,42 @@
 {"key":"csp_Yj1211","name": "📽️在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 
       {
-			"key": "csp_xpath_球迷2",
-			"name": "⚽🏀球赛",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://52bsj.vip:81/api/v3/file/get/61590/88%E7%9C%8B%E7%90%83.json?sign=J3XdftVlI-XzA7XxU2l7YDos4rEyMirQsH_eIxxPAv0%3D%3A0"
-		},
+            "key": "csp_XBPQ_抓饭体育",
+            "name": "🤾抓饭体育",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/抓饭.js"
+        },
+        {
+            "key": "csp_XPath_企鹅体育",
+            "name": "🐧企鹅体育",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"
+        },
+        {
+            "key": "dr_88看球",
+            "name": "🏀八八看球",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://alist.xn--z7x900a.love:63/88看球.js"
+        },
+        {
+            "key": "drpy_js_JRKAN直播",
+            "name": "🏀JRS看球",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/JRKAN直播.js"
+        },
 
 {"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/789kp.json"},
 {
