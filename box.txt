@@ -1,6 +1,5 @@
 {
 
-//"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/yg426.jar;md5;5F336F6DE028983FEF9F3C8EA638DFB0",
 "spider":"./527.jar",
 "lives":[
 
