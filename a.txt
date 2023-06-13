@@ -1,0 +1,76 @@
+{
+    "urls": [
+        {
+            "url": "http://xn--sss604efuw.top/tv",
+            "name": "饭太硬线路一"
+        },
+        {
+            "url": "http://xn--sss604efuw.top/tv",
+            "name": "饭太硬线路二"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "应用多多家庭版"
+        },
+        {
+            "url": "https://yydsys.top/duo/ali",
+            "name": "阿里精品专线"
+        }, 
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "饭太硬备用线路"
+        },                      
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "肥猫线路"
+        },                
+        {
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "name": "唐三线路"
+        },      
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "蜂蜜线路"
+        },                                                               
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "道长线路"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜妮丝线路"
+        }, 
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米(小暴脾气)线路"
+        },            
+        {
+            "url": "http://101.34.67.237/config/1",
+            "name": "小雅线路"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊佬线路"
+        },     
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "霜辉月明"
+        },
+        {
+            "url": "https://xhdwc.tk/0",
+            "name": "dxawi0线路"
+        },
+        {
+            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+            "name": "小苹果线路"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "老刘备线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/52670576/box/main/ysc.json",
+            "name": "运输车线路"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+"storeHouse": [
+{"sourceName":"小刘多仓1","sourceUrl":"./a.txt"},
+{"sourceName":"小刘多仓2","sourceUrl":"./b.txt"},
+{"sourceName":"小刘多仓3","sourceUrl":"./c.txt"},
+{"sourceName":"小刘多仓4","sourceUrl":"./d.txt"}
+]}

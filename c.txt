@@ -1,0 +1,48 @@
+{
+    "urls": [ 
+        {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
+            "name": "不良帅线路"
+        },         
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "乱世线路"
+        }, 
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+            "name": "一影视线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "name": "佰欣园线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/甜蜜.json",
+            "name": "甜蜜线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py甜蜜.json",
+            "name": "甜蜜py版线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
+            "name": "一木线路"
+        },        
+        {
+            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
+            "name": "kvymin线路"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "agit/abc线路"
+        },
+        {
+            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+            "name": "zzz1线路"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "小马线路"
+        }
+    ]
+}
