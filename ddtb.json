@@ -51,6 +51,15 @@
             "filterable": 1
         },
         {
+            "key": "MV_vod",
+            "name": "🎹┃MTV┃合集",
+            "type": 1,
+            "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },		
+        {
             "key": "新片热播",
             "name": "🔷┃新片┃热播",
             "type": 1,
@@ -82,7 +91,27 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/tongqu.js"
-        },	
+        },
+        {
+			"key":"csp_侦探TV",
+			"name":"🕵️┃侦探┃盒子",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://get.lfytyl.com/api.php/app/"
+		},
+        { 
+		    "key": "csp_小米", 
+			"name": "🛩️‍┃小米┃影视", 
+			"type": 3, 
+			"api": "csp_AppYsV2", 
+			"searchable": 1, 
+			"quickSearch": 1, 
+			"filterable": 1, 
+			"ext": "http://xn--yeta099v.online:66/api.php/app/" 
+		},		
         {
 			"key":"csp_DuoX",
 			"name":"✒️┃太硬┃多线",
@@ -236,7 +265,7 @@
 			"type": 3,
 			"playerType": 1,
 			"api": "csp_XYQHikerAL",
-			"jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;4EEBDFCF68A8B85AA2BD48D413487487",
+			"jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621",
 			"ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
 		},
         {
@@ -244,7 +273,7 @@
 			"name": "👩‍🔬┃玩偶┃妹妹",
 			"type": 3,
 			"api": "csp_XYQHikerAL",
-			"jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;4EEBDFCF68A8B85AA2BD48D413487487",
+			"jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621",
 			"ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
 		},		
         {
@@ -1132,7 +1161,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/B站精简.js"
+            "ext": "https://bitbucket.org/xduo/json/raw/master/B站精简.js"
         },
         {
             "key": "py_meishi",
@@ -1439,14 +1468,7 @@
 			"name":"轮询",
 			"type":2,
 			"url":"Sequence"
-		},
-        {
-			"name":"自动解析",
-			"type":1,
-			"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=",
-			"ext":
-			{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}
-	    },		
+		},	
         {
             "name": "小城解析",
             "type": 1,
@@ -1789,5 +1811,5 @@
     ],
     "wallpaper": "https://jianbian.chuqiuyu.tk",
     "warningText": "接口免费整理维护，请勿付费购买",
-    "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;8BF69B85F76AD89724385919CF66E0D8"
+    "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
 }
