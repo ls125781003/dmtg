@@ -101,17 +101,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"http://get.lfytyl.com/api.php/app/"
-		},
-        { 
-		    "key": "csp_小米", 
-			"name": "🛩️‍┃小米┃影视", 
-			"type": 3, 
-			"api": "csp_AppYsV2", 
-			"searchable": 1, 
-			"quickSearch": 1, 
-			"filterable": 1, 
-			"ext": "http://xn--yeta099v.online:66/api.php/app/" 
-		},		
+		},	
         {
 			"key":"csp_DuoX",
 			"name":"✒️┃太硬┃多线",
@@ -120,17 +110,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
-		},		
-        {
-            "key": "csp_appys_多米蓝光",
-            "name": "💧┃多米┃蓝光",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://v.dmdh.top/api.php/app/"
-        },			
+		},				
         {
             "key": "csp_酷影",
             "name": "🖼️┃酷影┃蓝光",
@@ -139,7 +119,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://cms.wbsys.top:9835/api.php/app/"
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
         },	
         {
             "key": "csp_baofeng",
@@ -165,16 +145,6 @@
                 "战争片",
                 "动漫片"
             ]
-        },
-        {
-            "key": "csp_xml影视乐",
-            "name": "🐏┃乐乐┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.ysle.cn/api.php/app/"
         },
 		{
 			"key": "app_影视之光",
@@ -337,15 +307,15 @@
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
         },
         {
-            "key": "csp_BuLei",
+            "key": "js_布蕾",
             "name": "⚡️┃布雷┃蓝光",
             "type": 3,
-            "api": "csp_BuLei",
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://dy01.bulei.cc/$$$auto$$$iamduo$$$159357"
-        },
+            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/布蕾蓝光.js"
+        },		
         {
             "key": "csp_AppTT",
             "name": "🗺️┃图图┃影视",
@@ -382,25 +352,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
-        },
-        {
-            "key": "csp_速映",
-            "name": "⚡️┃速映┃影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/json/raw/master/速映.json"
-        },
-        {
-            "key": "csp_ole",
-            "name": "🎺┃欧乐┃影院",
-            "type": 4,
-            "api": "https://php.dovxs.repl.co/vod/ole.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_可米",
@@ -492,7 +443,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://api-aws.11ty.top"
+            "ext": "https://hk-api-cf.yqk5659.com"
         },
         {
             "key": "csp_Nmys",
@@ -676,8 +627,7 @@
             "api": "csp_Fantuan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.fantuanhd.com"
+            "filterable": 0
         },
         {
             "key": "drpy_js_乐猪",
@@ -689,6 +639,26 @@
             "filterable": 1,
             "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/乐猪TV.js"
         },
+        {
+            "key": "csp_胖虎",
+            "name": "🐯┃胖虎┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://bitbucket.org/xduo/json/raw/master/胖虎.json"
+        },		
+        {
+            "key": "js_小狗影院",
+            "name": "🐶┃小狗┃影院",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/小狗.js"
+        },			
         {
             "key": "csp_Lgyy",
             "name": "🌀┃蓝光┃影院",
@@ -1470,6 +1440,22 @@
 			"url":"Sequence"
 		},	
         {
+			"name": "超清秒播1", 
+			"type": 1, 
+			"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=afimnpqrvBHJKOQS47&mgtv=app&url="
+		}, 
+        {
+			"name":"超清秒播2",
+			"type":1,
+			"url":"http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url="
+		},
+        {
+			"name":"超清秒播3",
+			"type":1,
+			"url":"http://43.143.107.57:417/api/?key=73259318e3d893e5b73fd87f20fbc2f7&url=",
+			"ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
+		},		
+        {
             "name": "小城解析",
             "type": 1,
             "url": "https://api.cygc.xyz/analysis/?url="
@@ -1811,5 +1797,5 @@
     ],
     "wallpaper": "https://jianbian.chuqiuyu.tk",
     "warningText": "接口免费整理维护，请勿付费购买",
-    "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
+    "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;8BF69B85F76AD89724385919CF66E0D8"
 }
