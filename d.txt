@@ -1,6 +1,18 @@
 {
     "urls": [
-          {
+        {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ddtb.json",
+            "name": "多多备用线路"
+        }, 
+        {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
+            "name": "小苹果备用线路"
+        }, 
+        {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/boxpro.json",
+            "name": "月光宝盒备用线路"
+        },
+        {
             "url":"https://download.kstore.space/download/3313/mao/ymz",
             "name": "夜猫子线路"
         },
