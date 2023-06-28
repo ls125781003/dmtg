@@ -7,8 +7,7 @@
             "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar"
+            "filterable": 1
         },
         {
             "key": "t4佬",
@@ -1372,7 +1371,7 @@
             "quickSearch": 0
         }
     ],
-    "spider": "http://m35.grelighting.cn/html/ccc.jar;md5;C37C34107A528D50706B26E6BC37253F",
+    "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
