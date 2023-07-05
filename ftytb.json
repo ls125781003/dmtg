@@ -618,14 +618,6 @@
             "ext": "http://饭太硬.top/x/json/高中课堂.json"
         },
         {
-            "key": "ext_live_protocol",
-            "name": "导航 http://饭太硬.ml",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "cc",
             "name": "请勿相信视频中任何广告",
             "type": 3,
