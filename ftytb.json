@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "js豆豆",
-            "name": "微信公众号【神秘的哥哥们】关注防失联",
+            "name": "豆瓣",
             "type": 3,
             "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
             "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js",
