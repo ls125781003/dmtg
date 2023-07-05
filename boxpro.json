@@ -1,6 +1,6 @@
 {
 "spider":"./0606.jar",
-"lives":[  
+    
 {
       "name": "live",
       "url": "http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
@@ -17,7 +17,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈豆瓣",
+            "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
             "type": 3,
             "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",
@@ -30,7 +30,7 @@
  {"key": "csp_appys_影探","name": "🏵影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://big.lfytyl.com/api.php/app/","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/yt.jar"},
  {
             "key": "dr_ymzx",
-            "name": "飞云4K",
+            "name": "🌙宝盒飞云4K",
             "type": 3,
             "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
             "searchable": 0,
@@ -540,6 +540,7 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/bil/%e9%ab%98%e4%b8%ad%e8%af%be%e5%a0%82.json"
     },
 {      "key": "csp_Dm84",      "name": "🚌动漫巴士",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Anime1",      "name": "🐾日本动漫",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
+    {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
 
 ],
