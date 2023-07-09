@@ -9,8 +9,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "isActive": true,
-        "status": true,
+        "isActive": false,
+        "status": false,
         "type": 1,
         "id": 1
       },
@@ -21,8 +21,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "isActive": false,
-        "status": false,
+        "isActive": true,
+        "status": true,
         "type": 1,
         "id": 2
       },
@@ -69,8 +69,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "isActive": true,
-        "status": true,
+        "isActive": false,
+        "status": false,
         "type": 1,
         "id": 6
       },
@@ -81,8 +81,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "isActive": true,
-        "status": true,
+        "isActive": false,
+        "status": false,
         "type": 1,
         "id": 7
       },
@@ -93,8 +93,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "isActive": true,
-        "status": true,
+        "isActive": false,
+        "status": false,
         "type": 1,
         "id": 8
       },
@@ -117,8 +117,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "isActive": true,
-        "status": true,
+        "isActive": false,
+        "status": false,
         "type": 1,
         "id": 10
       },
@@ -275,8 +275,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "isActive": true,
-        "status": true,
+        "isActive": false,
+        "status": false,
         "type": 1,
         "id": 24
       },
@@ -287,8 +287,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "isActive": true,
-        "status": true,
+        "isActive": false,
+        "status": false,
         "type": 1,
         "id": 25
       },
@@ -299,8 +299,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "isActive": true,
-        "status": true,
+        "isActive": false,
+        "status": false,
         "type": 1,
         "id": 27
       },
@@ -350,8 +350,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "status": true,
-        "isActive": true,
+        "status": false,
+        "isActive": false,
         "type": 1,
         "id": 34
       },
@@ -376,8 +376,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "status": true,
-        "isActive": true,
+        "status": false,
+        "isActive": false,
         "type": 1,
         "id": 36
       },
@@ -428,19 +428,19 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "status": true,
-        "isActive": true,
+        "status": false,
+        "isActive": false,
         "type": 1,
         "id": 41
       },
       {
-        "key": "飞速资源",
-        "name": "飞速资源",
-        "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+        "key": "xiaomaomi",
+        "name": "小猫咪",
+        "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
         "download": "",
-        "playUrl": "",
+        "playUrl": "http://139.159.239.156:88/api/?key=Ydj3I8W80PazAaxvXH&url=",
         "search": 1,
-        "group": "切片",
+        "group": "官采",
         "status": true,
         "isActive": true,
         "type": 1,
@@ -467,8 +467,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "status": true,
-        "isActive": true,
+        "status": false,
+        "isActive": false,
         "type": 1,
         "id": 44
       },
@@ -493,8 +493,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "status": true,
-        "isActive": true,
+        "status": false,
+        "isActive": false,
         "type": 1,
         "id": 56
       },
@@ -519,8 +519,8 @@
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "status": true,
-        "isActive": true,
+        "status": false,
+        "isActive": false,
         "type": 1,
         "id": 58
       },
@@ -558,14 +558,14 @@
         "playUrl": "",
         "search": 1,
         "group": "综合",
-        "status": true,
-        "isActive": true,
+        "status": false,
+        "isActive": false,
         "type": 1,
         "id": 61
       },
       {
         "key": "ganfan",
-        "name": "干饭官采",
+        "name": "干饭",
         "api": "http://124.220.183.81:83/api.php/provide/vod/",
         "download": "",
         "playUrl": "",
@@ -575,11 +575,63 @@
         "isActive": true,
         "type": 1,
         "id": 63
+      },
+      {
+        "key": "feimao",
+        "name": "肥猫",
+        "api": "http://i.xn--z7x900a.love:63/api.php/provide/vod",
+        "download": "",
+        "playUrl": "http://cms.itcxo.cn/v1.vod/icciu_api/chenxi.php?key=微信公众号云烟小助手&url=",
+        "search": 1,
+        "group": "采集配合解析",
+        "status": true,
+        "isActive": true,
+        "type": 1,
+        "id": 64
+      },
+      {
+        "key": "buleitv",
+        "name": "布蕾",
+        "api": "http://117.175.212.198:8088/api.php/app/",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 3,
+        "id": 65
+      },
+      {
+        "key": "adys",
+        "name": "小龟",
+        "api": "https://api123.adys.app/xgapp.php/v3/",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": false,
+        "isActive": false,
+        "type": 3,
+        "id": 66
+      },
+      {
+        "key": "realdou",
+        "name": "真逗",
+        "api": "http://ys.realdou.cn/api.php/app/",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 3,
+        "id": 67
       }
     ]
   },
   "iptv": {
-    "default": 1,
+    "default": 17,
     "data": [
       {
         "id": 1,
@@ -687,14 +739,22 @@
       },
       {
         "id": 14,
-        "name": "斗鱼",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u",
+        "name": "斗鱼一起看",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
         "isActive": true,
         "type": "remote",
         "epg": ""
       },
       {
         "id": 15,
+        "name": "斗鱼直播",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u",
+        "isActive": true,
+        "type": "remote",
+        "epg": ""
+      },
+      {
+        "id": 16,
         "name": "pastebin",
         "url": "https://pastebin.com/raw/ZvKmAfRg",
         "isActive": false,
@@ -702,23 +762,7 @@
         "epg": ""
       },
       {
-        "id": 16,
-        "name": "多多直播",
-        "url": "https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
-        "type": "remote",
-        "epg": "http://epg.112114.xyz",
-        "isActive": true
-      },
-      {
         "id": 17,
-        "name": "超级MV",
-        "url": "https://bitbucket.org/xduo/json/raw/master/MV.txt",
-        "type": "remote",
-        "epg": "http://epg.112114.xyz",
-        "isActive": true
-      },	  
-      {
-        "id": 18,
         "name": "Ray直播",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
         "type": "remote",
@@ -726,35 +770,59 @@
         "isActive": true
       },
       {
+        "id": 18,
+        "name": "多多直播",
+        "url": "https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true
+      },
+      {
         "id": 19,
-        "name": "饭太硬直播",
-        "url": "http://ftyyy.tk/live.txt",
+        "name": "IPV6专用",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u",
         "type": "remote",
         "epg": "http://epg.112114.xyz",
         "isActive": true
       },
       {
         "id": 20,
+        "name": "电视伴音",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true
+      },
+      {
+        "id": 21,
+        "name": "超级MV",
+        "url": "https://bitbucket.org/xduo/json/raw/master/MV.txt",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true
+      },
+      {
+        "id": 22,
         "name": "俊于直播",
         "url": "http://home.jundie.top:81/Cat/tv/live.txt",
         "type": "remote",
         "epg": "http://epg.112114.xyz",
         "isActive": true
-      }
+      }	  
     ]
   },
   "analyzes": {
-    "default": 1,
+    "default": 2,
     "data": [
       {
         "id": 1,
-        "name": "纯净/B站",
+        "name": "纯净",
         "url": "https://im1907.top/?jx=",
         "isActive": true
       },
       {
         "id": 2,
-        "name": "综合/B站",
+        "name": "B站",
         "url": "https://jx.jsonplayer.com/player/?url=",
         "isActive": true
       },
