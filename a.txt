@@ -74,7 +74,7 @@
          },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/52670576/box/main/ysc.json",
-            "name": "运输车线路"
+            "name": "运输车线路github"
         }
     ]
 }
