@@ -9,7 +9,7 @@
              "name": "运输车线路github" 
          }, 
          {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/main/XYQ.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情线路"
         },
         {
