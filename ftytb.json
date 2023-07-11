@@ -1,13 +1,13 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;88c55af008dbd9344f3cf95e6f426a2a",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2d55815a43895b1ed5f48ccbb1630f6a",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
             "key": "js豆豆",
             "name": "豆瓣网",
             "type": 3,
-            "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
-            "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js",
+            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
+            "ext": "http://xn--sss604efuw.top/jm/js/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -67,8 +67,26 @@
             "api": "csp_DuoX",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="
+            "changeable": 1
+        },
+        {
+            "key": "陌陌",
+            "name": "🍄陌陌┃直连",
+            "type": 3,
+            "api": "csp_MmYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "📔厂长┃直连",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "csp_fantuan",
@@ -89,6 +107,15 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },
+        {
+            "key": "csp_77",
+            "name": "👒七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "酷酷",
@@ -114,15 +141,6 @@
             "changeable": 0
         },
         {
-            "key": "陌陌",
-            "name": "🍄陌陌┃直连",
-            "type": 3,
-            "api": "csp_MmYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
             "key": "csp_YQKAPP",
             "name": "🎉一起┃App",
             "type": 3,
@@ -138,15 +156,6 @@
             "name": "👀快看┃App",
             "type": 3,
             "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_77",
-            "name": "👒七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -169,16 +178,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.6080yy3.com/"
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "📔厂长┃直连",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "csp_DiDuan",
@@ -296,16 +295,6 @@
             "ext": "https://www.555dyy1.com"
         },
         {
-            "key": "csp_apple",
-            "name": "🍎苹果┃App",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
             "key": "csp_SP33",
             "name": "📺三三┃解析",
             "type": 3,
@@ -394,7 +383,7 @@
             "key": "88js",
             "name": "⚽ 88┃看球",
             "type": 3,
-            "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
+            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -444,7 +433,7 @@
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
             "type": 3,
-            "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
+            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -474,7 +463,7 @@
             "key": "有声小说js",
             "name": "🎧有声┃小说",
             "type": 3,
-            "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
+            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -571,7 +560,7 @@
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
+            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -636,11 +625,6 @@
             "name": "聚合0",
             "type": 3,
             "url": "Web"
-        },
-        {
-            "name": "【影视范】提供",
-            "type": 1,
-            "url": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="
         },
         {
             "name": "刚佬",
@@ -914,7 +898,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "http://hz752.love:63/txt/ysbox.txt",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
