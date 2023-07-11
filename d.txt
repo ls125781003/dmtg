@@ -2,7 +2,7 @@
     "urls": [
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ddtb.json",
-            "name": "多多备用线路"
+            "name": "yydd备用线路"
         }, 
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/fmbftb.json",
