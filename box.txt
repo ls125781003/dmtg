@@ -1,15 +1,6 @@
 {
     "sites": [
         {
-            "key": "小苹果",
-            "name": "🍎跑路的小苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "t4佬",
             "name": "🍀┃豆瓣精选",
             "type": 1,
