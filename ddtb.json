@@ -5,10 +5,19 @@
             "name": "🍥┃豆瓣┃🍥",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
+        },
+        {
+            "key": "js豆瓣备用",
+            "name": "🍥┃豆瓣备用┃🍥",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/doubanbf.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
+            "filterable": 0
         },
         {
             "key": "直播转点播",
@@ -1333,7 +1342,7 @@
         },
         {
             "key": "说明",
-            "name": "软件接口完全免费",
+            "name": "请勿相信视频中任何广告",
             "type": 3,
             "api": "360",
             "searchable": 1,
