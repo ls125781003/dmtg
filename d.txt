@@ -17,6 +17,10 @@
             "name": "fty备用线路"
         },
         {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQTVBox.json",
+            "name": "xyq+影视仓线路"
+        },
+        {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/boxpro.json",
             "name": "ygbh备用线路"
         },
