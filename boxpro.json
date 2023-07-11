@@ -22,10 +22,10 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈豆瓣",
+            "name": "🌈豆瓣网",
             "type": 3,
-            "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",
+            "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -33,15 +33,15 @@
 	 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
    
  {"key": "csp_appys_影探","name": "🏵影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://big.lfytyl.com/api.php/app/","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/yt.jar"},
- {
-            "key": "dr_ymzx",
-            "name": "🌙宝盒飞云4K",
-            "type": 3,
-            "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e9%a3%9e%e4%ba%91_V2_.js"},   
+ {"key": "csp_XBPQ_yl影院",
+  "name": "🐉御龙高清",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"https://jihulab.com/ymz1231/json/-/raw/main/御龙高清.json"}, 
+ 
 {"key":"csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 { 
    "key": "直播转点播", 
@@ -69,16 +69,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://124.222.175.111:89/api.php/app/"
-        },
-    {
-            "key": "csp_apple",
-            "name": "🍎小苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
       "key": "csp_Nmys",
@@ -545,6 +535,7 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/bil/%e9%ab%98%e4%b8%ad%e8%af%be%e5%a0%82.json"
     },
 {      "key": "csp_Dm84",      "name": "🚌动漫巴士",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Anime1",      "name": "🐾日本动漫",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
+ 
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
 
 ],
