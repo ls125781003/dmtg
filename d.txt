@@ -21,6 +21,10 @@
             "name": "xyq+影视仓线路"
         },
         {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
+            "name": "dr_js备用线路"
+        },
+        {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/boxpro.json",
             "name": "ygbh备用线路"
         },
