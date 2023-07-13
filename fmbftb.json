@@ -5,7 +5,7 @@
       "name": "🐼┃豆瓣┃",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"
+      "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
     },
     {
       "key": "直播转点播",
@@ -207,6 +207,13 @@
     "4K电影",
     "4K电视剧",
       ]
+    },
+    {
+      "key": "布蕾",
+      "name": "🌞┃布蕾┃影视",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/布蕾.jsd"
     },
     {
       "key": "狐狸",
@@ -563,7 +570,7 @@
     },
     {
       "key": "ext_live_protocol",
-      "name": "请勿相信视频中的任何广告",
+      "name": "请勿相信视频中任何广告",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/协议.js",
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
