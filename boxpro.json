@@ -3,8 +3,6 @@
     
 "lives":[
 
-"lives":[
-
 
     
 {
@@ -32,18 +30,27 @@
             "filterable": 0
         },
         {
-            "key": "js 77",
-            "name": "🌍酷云77",
-            "type": 3,
-            "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e9%85%b7%e4%ba%9177.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-	 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
-   
-   {"key":"csp_DuoX","name":"🌸布蕾4K","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1,"categories":["飞云4K","电视剧","电影","动漫","综艺"]},     
+      "key": "广播迷",
+      "name": "🍎电视广播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
+        "编码": "GBK",
+        "播放数组": "ax-grid ax-split-2 ax-space-md&&</ul>",
+        "线路数组": "ax-btn*ax-padding ax-xl\">&&/a>[不包含:介绍]",
+        "分类url": "http://www.guangbomi.com/tv/{cateId}/{catePg}.html[http://www.guangbomi.com/tv/{cateId}/index.html"
+      },"jar": "http://xhww.fun:63/小米/小暴脾气7.jar;md5;6ad6ecbdd8d8dd440f9824c9b6628cad"
+    },
+          {
+      "key": "荐片",
+      "name": "荐片┃磁力",
+      "type": 3,
+      "playerType": "1",
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
+    },
+	 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},   
      {"key":"影探4K","name":"🍡影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"http://ytcms.lfytyl.com/api.php/app/"},   
 {
             "key": "ky", 
@@ -556,10 +563,13 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/bil/%e9%ab%98%e4%b8%ad%e8%af%be%e5%a0%82.json"
     },
 {      "key": "csp_Dm84",      "name": "🚌动漫巴士",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Anime1",      "name": "🐾日本动漫",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
-
+   
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
      
 ],
+
+
+
 
 
 "parses":[
@@ -743,7 +753,7 @@
     }
   ],
  
-  "flags": [
+   "flags": [
     "youku",
     "优酷",
     "优 酷",
@@ -786,3 +796,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
+
