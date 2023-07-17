@@ -3,8 +3,6 @@
 "spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 "lives":[
 
-
-    
 {
       "name": "live",
       "url": "http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
@@ -28,6 +26,15 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "Kunyu77",
+            "name": "🍉酷云七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar": "http://xhww.fun:63/小米/小暴脾气7.jar;md5;6ad6ecbdd8d8dd440f9824c9b6628cad"
         },
         {
       "key": "广播迷",
@@ -563,7 +570,7 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/bil/%e9%ab%98%e4%b8%ad%e8%af%be%e5%a0%82.json"
     },
 {      "key": "csp_Dm84",      "name": "🚌动漫巴士",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Anime1",      "name": "🐾日本动漫",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
-   
+ 
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
      
 ],
