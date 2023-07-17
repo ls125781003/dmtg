@@ -61,10 +61,6 @@
             "name": "dxawi0线路"
         },
         {
-            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-            "name": "小苹果线路"
-        },
-        {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "老刘备线路"
         },        
