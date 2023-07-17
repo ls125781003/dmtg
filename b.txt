@@ -5,6 +5,11 @@
             "name": "应用多多备用"
         },
         {
+            "url": "http://101.34.67.237/config/1",
+            "name": "小雅线路"
+        },  
+
+        {
             "url": "https://la.kstore.space/download/2863/01.txt",
             "name": "潇洒线路"
         },
