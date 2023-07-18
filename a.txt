@@ -61,7 +61,7 @@
             "name": "dxawi0线路"
         },
         {
-            "url": "https://raw.liucn.cc/box/m.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "老刘备线路"
         },        
         { 
