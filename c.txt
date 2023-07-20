@@ -41,6 +41,18 @@
             "name": "zzz1线路"
         },
         {
+            "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "元兴线路"
+        },
+          {
+            "url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
+            "name": "刺桐线路"
+        },
+          {
+            "url":"https://xzam.cn/tv",
+            "name": "小胡线路"
+        },
+        {
             "url": "https://szyyds.cn/tv/x.json",
             "name": "小马线路"
         }
