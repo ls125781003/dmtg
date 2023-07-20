@@ -1,5 +1,5 @@
 {
-    "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;EDAB3976B24E102336354D445026329F",
+    "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F",
     "wallpaper": "https://xduo.app/bg.php",
     "warningText": "接口免费整理维护，请勿付费购买",
     "sites": [
@@ -191,7 +191,7 @@
             "switchable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
-    
+   
         {
             "key": "说明",
             "name": "请勿相信视频中任何广告",
@@ -361,9 +361,14 @@
             "url": "Sequence"
         },
         {
-            "name": "超清秒播",
+            "name": "自动解析",
             "type": 1,
-            "url": "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url=",
+            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+        },
+        {
+            "name": "1号线",
+            "type": 0,
+            "url": "https://vip.lianfaka.com/vip/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -388,16 +393,6 @@
                     "User-Agent": "okhttp/4.1.0"
                 }
             }
-        },
-        {
-            "name": "凉笙解析",
-            "type": 1,
-            "url": "http://json.xg688.top/api/?key=Y1etBkWn5hetOHJwF1&url="
-        },
-        {
-            "name": "1号线",
-            "type": 1,
-            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
         },
         {
             "name": "2号线",
