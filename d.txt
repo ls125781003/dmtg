@@ -33,6 +33,10 @@
             "name": "阿里合集备用线路"
         },
         {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
+            "name": "nanfeng备用线路"
+        },
+        {
             "url":"https://download.kstore.space/download/3313/mao/ymz",
             "name": "夜猫子线路"
         },
@@ -51,18 +55,6 @@
           {
             "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
             "name": "胖鸭线路"
-        },
-          {
-            "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "元兴线路"
-        },
-          {
-            "url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
-            "name": "刺桐线路"
-        },
-          {
-            "url":"https://xzam.cn/tv",
-            "name": "小胡线路"
         },
         {
             "url": "https://www.lianyingtv.com/fast/fast",
