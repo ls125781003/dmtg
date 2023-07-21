@@ -1,8 +1,11 @@
 {
 //"spider":"./0606.jar",
 "spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+
 "lives":[
 
+
+    
 {
       "name": "live",
       "url": "http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
@@ -59,17 +62,21 @@
     },
 	 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},   
      {"key":"影探4K","name":"🍡影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"http://ytcms.lfytyl.com/api.php/app/"},   
-{
-            "key": "ky", 
-            "name": "👑酷影4k", 
-            "type": 3, 
-            "api": "csp_AppYsV2", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "ext": "http://ys.realdou.cn/api.php/app/"
-        },
- 
+
+ {
+      "key": "酷酷",
+      "name": "🎡酷酷4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://cms.realdou.cn/api.php/app/",
+      "categories": [
+        "4K电影",
+        "4K电视剧"
+      ]
+    },
  {"key": "csp_XBPQ_yl影院",
   "name": "🐉御龙高清",
   "type": 3,
@@ -570,13 +577,10 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/bil/%e9%ab%98%e4%b8%ad%e8%af%be%e5%a0%82.json"
     },
 {      "key": "csp_Dm84",      "name": "🚌动漫巴士",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Anime1",      "name": "🐾日本动漫",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
- 
+    
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
      
 ],
-
-
-
 
 
 "parses":[
