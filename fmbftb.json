@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
+            "name": "🐼┃豆瓣┃",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
             "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
