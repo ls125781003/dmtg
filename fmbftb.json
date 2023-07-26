@@ -1,8 +1,8 @@
-{
+{"code":500,"msg":false,"data":"","exec_time":10.011314,"ip":"111.43.158.240"}{
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "🐼┃豆瓣┃",
+            "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
             "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
@@ -24,17 +24,6 @@
             "filterable": 1
         },
         {
-            "key": "爱迪",
-            "name": "💡┃爱迪┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": "2",
-            "ext": "https://api123.adys.app/xgapp.php/v3/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "荐片",
             "name": "🎬┃豆瓣┃荐片",
             "type": 3,
@@ -44,6 +33,21 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "酷影",
+            "name": "😎┃酷影┃影院",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.realdou.cn/api.php/app/",
+            "categories": [
+                "4K电视剧",
+                "4K电影",
+                "儿童4K"
+            ]
         },
         {
             "key": "yyds",
@@ -111,6 +115,17 @@
             "name": "👻┃明明┃影视",
             "type": 3,
             "api": "csp_AppMr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "爱迪",
+            "name": "💡┃爱迪┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": "2",
+            "ext": "https://api123.adys.app/xgapp.php/v3/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -570,13 +585,7 @@
             "filterable": 1,
             "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
         },
-        {
-            "key": "ext_live_protocol",
-            "name": "请勿相信视频中任何广告",
-            "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/协议.js",
-            "ext": "clan://proxy?sourcekey=ext_live_protocol"
-        }
+        {"key":"说明","name":"请勿相信视频中任何广告","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
     ],
     "lives": [
         {
@@ -644,7 +653,7 @@
         {
             "name": "小新解析",
             "type": 1,
-            "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=1796272&key=chstuvyzCFHJKPSTU8&url="
+            "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
         },
         {
             "name": "小鱼解析",
