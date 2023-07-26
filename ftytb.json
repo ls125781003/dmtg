@@ -1,10 +1,10 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f4ec316a5fa752ef8082328b9b28e708",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
             "key": "js豆豆",
-            "name": "🐼┃豆瓣网┃",
+            "name": "🍥┃豆瓣┃🍥",
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
@@ -36,7 +36,7 @@
             "key": "MV_vod",
             "name": "🎸明星┃MV",
             "type": 1,
-            "api": "https://mv.饭太硬.ml/mv/vod",
+            "api": "https://mv.wogg.link/mv/vod",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
@@ -61,15 +61,6 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
-            "key": "csp_DuoX",
-            "name": "💢多线┃App",
-            "type": 3,
-            "api": "csp_DuoX",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "陌陌",
             "name": "🍄陌陌┃直连",
             "type": 3,
@@ -77,16 +68,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "📔厂长┃直连",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "迪迪",
@@ -108,14 +89,33 @@
             "changeable": 1
         },
         {
-            "key": "csp_fantuan",
-            "name": "🍙饭团┃直连",
+            "key": "csp_Czsapp",
+            "name": "📔厂长┃直连",
             "type": 3,
-            "api": "csp_Fantuan",
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "⏮️低端┃直连",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Lib",
+            "name": "🌟利播┃直连",
+            "type": 3,
+            "api": "csp_Libvio",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.fantuan3.com"
+            "ext": "https://www.libvio.fun/"
         },
         {
             "key": "贱贱",
@@ -133,7 +133,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://cms.realdou.cn/api.php/app/",
+            "ext": "http://cms.realdou.cn:62703/api.php/app/",
             "categories": [
                 "4K电影",
                 "4K电视剧"
@@ -143,6 +143,7 @@
             "key": "探探",
             "name": "🏵探探┃App",
             "type": 3,
+            "playerType": "1",
             "api": "csp_YT",
             "searchable": 1,
             "quickSearch": 1,
@@ -178,15 +179,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_DiDuan",
-            "name": "⏮️低端┃直连",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Xinsj",
             "name": "🐼视觉┃直连",
             "type": 3,
@@ -197,6 +189,16 @@
             "ext": "https://www.6080yy3.com/"
         },
         {
+            "key": "csp_fantuan",
+            "name": "🍙饭团┃直连",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.fantuan3.com"
+        },
+        {
             "key": "csp_Cokemv",
             "name": "📕可乐┃直连",
             "type": 3,
@@ -205,16 +207,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "csp_Lib",
-            "name": "🌟利播┃直连",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.fun/"
         },
         {
             "key": "csp_Bttoo",
@@ -451,11 +443,11 @@
             "key": "csp_XYQBiu_斗鱼",
             "name": "🐟斗鱼┃直播",
             "type": 3,
-            "api": "csp_XYQBiu",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://饭太硬.top/x/XYQ/斗鱼直播.json"
+            "changeable": 0
         },
         {
             "key": "csp_XBPQ_聚短视频",
@@ -614,7 +606,6 @@
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/高中课堂.json"
         },
-   
         {
             "key": "cc",
             "name": "请勿相信视频中任何广告",
