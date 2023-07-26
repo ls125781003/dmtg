@@ -1,4 +1,4 @@
-{"code":500,"msg":false,"data":"","exec_time":10.011314,"ip":"111.43.158.240"}{
+{
     "sites": [
         {
             "key": "js豆瓣",
@@ -585,7 +585,14 @@
             "filterable": 1,
             "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
         },
-        {"key":"说明","name":"请勿相信视频中任何广告","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
+        {
+            "key": "cc",
+            "name": "请勿相信视频中任何广告",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0
+        }
     ],
     "lives": [
         {
