@@ -1,10 +1,10 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6",
-    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad",
+    "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "sites": [
         {
             "key": "js豆豆",
-            "name": "🍥┃豆瓣┃🍥",
+            "name": "🔍豆瓣网",
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
@@ -20,7 +20,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/bilibili.json"
+            "ext": "http://饭太硬.top/tv/bilibili.json"
         },
         {
             "key": "csp_Biliych",
@@ -30,7 +30,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/biliych.json"
+            "ext": "http://饭太硬.top/tv/biliych.json"
         },
         {
             "key": "MV_vod",
@@ -129,15 +129,10 @@
             "key": "酷酷",
             "name": "💡酷酷┃App",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Kuying",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://cms.realdou.cn:62703/api.php/app/",
-            "categories": [
-                "4K电影",
-                "4K电视剧"
-            ]
+            "changeable": 1
         },
         {
             "key": "探探",
@@ -147,7 +142,7 @@
             "api": "csp_YT",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_YQKAPP",
@@ -225,7 +220,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://饭太硬.top/x/json/nmys.json"
+            "ext": "http://饭太硬.top/tv/nmys.json"
         },
         {
             "key": "csp_Dy1010",
@@ -283,16 +278,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.ysgc.vip"
-        },
-        {
-            "key": "csp_555",
-            "name": "5️⃣️五五┃直连",
-            "type": 3,
-            "api": "csp_Ys555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.555dyy1.com"
         },
         {
             "key": "csp_SP33",
@@ -397,7 +382,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/xp/dj看球.json"
+            "ext": "http://饭太硬.top/tv/dj看球.json"
         },
         {
             "key": "csp_XYQBiu_310直播",
@@ -407,7 +392,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/XYQ/310直播.json"
+            "ext": "http://饭太硬.top/tv/310直播.json"
         },
         {
             "key": "csp_XPath_企鹅体育",
@@ -417,7 +402,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/xp/企鹅直播.json"
+            "ext": "http://饭太硬.top/tv/企鹅直播.json"
         },
         {
             "key": "csp_XBPQ_酷奇",
@@ -427,7 +412,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/xbpq/酷奇MV.json"
+            "ext": "http://饭太硬.top/tv/酷奇MV.json"
         },
         {
             "key": "虎牙直播js",
@@ -457,7 +442,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/xbpq/短视频.json"
+            "ext": "http://饭太硬.top/tv/短视频.json"
         },
         {
             "key": "有声小说js",
@@ -574,7 +559,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/少儿教育.json"
+            "ext": "http://饭太硬.top/tv/少儿教育.json"
         },
         {
             "key": "小学课堂",
@@ -584,7 +569,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/小学课堂.json"
+            "ext": "http://饭太硬.top/tv/小学课堂.json"
         },
         {
             "key": "初中课堂",
@@ -594,7 +579,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/初中课堂.json"
+            "ext": "http://饭太硬.top/tv/初中课堂.json"
         },
         {
             "key": "高中教育",
@@ -604,7 +589,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/高中课堂.json"
+            "ext": "http://饭太硬.top/tv/高中课堂.json"
         },
         {
             "key": "cc",
@@ -898,7 +883,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
