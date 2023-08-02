@@ -17,8 +17,12 @@
             "name": "fty备用线路"
         },
         {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQ.json",
+            "name": "香雅情线路"
+        },
+        {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQTVBox.json",
-            "name": "xyq+影视仓线路"
+            "name": "香雅情备用线路[原画在前]"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
