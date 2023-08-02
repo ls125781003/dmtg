@@ -63,11 +63,19 @@
         },
         {
             "key": "哔哩哔哩",
-            "name": "哔站┃BPQ",
+            "name": "哔站┃成人",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
             "ext": "http://xhww.fun:63/小米/源/哔哩.json"
+        },
+        {
+            "key": "哔哩哔哩2",
+            "name": "哔站┃儿童",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+            "ext": "http://xhww.fun:63/小米/源/哔哩儿童.json"
         },
         {
             "key": "csp_WoGG",
@@ -77,8 +85,7 @@
             "changeable": 0,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
             "key": "磁力",
@@ -219,7 +226,7 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "https://czzy.art/",
+            "ext": "https://czzy.pw/",
             "filterable": 1
         },
         {
@@ -719,8 +726,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
         },
         {
             "key": "Zhaozy",
@@ -731,8 +737,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
         },
         {
             "key": "PanSou",
@@ -743,8 +748,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
         },
         {
             "key": "UpYun",
@@ -755,8 +759,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
         },
         {
             "key": "PanSearch",
@@ -766,8 +769,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
         },
         {
             "key": "七夜",
@@ -777,8 +779,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
         },
         {
             "key": "dr_88看球",
@@ -843,30 +844,14 @@
             "key": "非凡资源",
             "name": "非凡┃切片",
             "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+            "api": "https://www.80yk.com/api.php/provide/vod/",
+            "playUrl": "https://bfq.rebo.cm/player/ec.php?code=qw&from=Dadou&if=1&url=;https://bfq.rebo.cm/player/ec.php?code=qw&from=funB&if=1&url=;https://bfq.rebo.cm/player/ec.php?code=qw&from=fun&if=1&url=",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
-                "国产剧",
-                "韩国剧",
-                "香港剧",
-                "台湾剧",
-                "欧美剧",
-                "动作片",
-                "科幻片",
-                "战争片",
-                "奇幻片",
-                "喜剧片",
-                "爱情片",
-                "恐怖片",
-                "犯罪片",
-                "悬疑片",
-                "惊悚片",
-                "剧情片",
-                "冒险片",
-                "记录片",
-                "综艺",
-                "动漫"
+                "剧集",
+                "电影",
+                "番剧"
             ]
         },
         {
@@ -899,13 +884,15 @@
                 "动漫"
             ]
         },
-       {
-            "key": "cc",
+        {
+            "key": "push_agent",
             "name": "请勿相信视频中任何广告",
             "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0
+            "api": "csp_Push",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         }
     ],
     "parses": [
@@ -922,7 +909,7 @@
         {
             "name": "小米🌾",
             "type": 1,
-            "url": "http:/xhww.fun:63/爱肥猫.php?url=",
+            "url": "http:/xhww.fun:63/爱小米.php?url=",
             "ext": {
                 "flag": [
                     "qiqi",
