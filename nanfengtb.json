@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;0A4B198EEC040AB9088F865A169BD04B",
+    "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;8CE41AEA35C3393F3DC3D2187D202912",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -79,6 +79,21 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://api-aws.11ty.top"
+        },
+        {
+            "key": "酷影",
+            "name": "🚀酷影",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.realdou.cn:27953/api.php/app/",
+            "categories": [
+                "4K电影",
+                "4K电视剧",
+                "儿童4K"
+            ]
         },
         {
             "key": "狐狸",
@@ -685,55 +700,7 @@
         {
             "name": "小新",
             "type": 1,
-            "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=13270&key=begmstuACFJKNPWZ07&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "刚佬",
-            "type": 1,
-            "url": "http://json.g9.pub:66/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
+            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=adijnorsyGPQRSX238&url="
         },
         {
             "name": "777",
