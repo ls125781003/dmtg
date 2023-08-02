@@ -211,7 +211,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$https://wogg.xyz/"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$https://wogg.xyz/",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
         },
         {
             "key": "XYQaL_4kHDR",
@@ -219,7 +220,7 @@
             "type": 3,
             "playerType": 1,
             "api": "csp_XYQHikerAL",
-            "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;6F4C05A1C7BEF05DBF3F658FFFB9EE0A",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad",
             "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
         },
         {
@@ -227,7 +228,7 @@
             "name": "👩‍🔬┃玩偶┃妹妹",
             "type": 3,
             "api": "csp_XYQHikerAL",
-            "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;6F4C05A1C7BEF05DBF3F658FFFB9EE0A",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad",
             "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
         },
         {
@@ -278,7 +279,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad" 
         },
         {
             "key": "PanSearch",
@@ -288,7 +290,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
         },
         {
             "key": "Upyunso",
@@ -298,7 +301,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
         },
         {
             "key": "Alips",
@@ -308,7 +312,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
         },
         {
             "key": "Yisou",
@@ -318,7 +323,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
         },
         {
             "key": "Zhaozy",
@@ -328,7 +334,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357",
+             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
         },
         {
             "key": "js_布蕾",
