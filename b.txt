@@ -8,7 +8,10 @@
             "url": "http://101.34.67.237/config/1",
             "name": "小雅线路"
         },  
-
+        {
+            "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+            "name": "教育专线"
+        },  
         {
             "url": "https://la.kstore.space/download/2863/01.txt",
             "name": "潇洒线路"
