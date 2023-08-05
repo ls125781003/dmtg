@@ -56,6 +56,14 @@
         {
             "url": "https://ju.binghe.ga/4.txt",
             "name": "冰河线路"
-        }
+        },
+         {
+            "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "name": "胖鸭线路"
+        },
+        {
+            "url": "https://www.lianyingtv.com/fast/fast",
+            "name": "恋影线路"
+        }		
     ]
 }
