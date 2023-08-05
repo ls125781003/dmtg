@@ -14,7 +14,7 @@
         },
         {
             "url": "https://yydsys.top/duo/ali",
-            "name": "阿里精品专线"
+            "name": "多多阿里专线"
         }, 
         {
             "url": "http://饭太硬.top/tv",
