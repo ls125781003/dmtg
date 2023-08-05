@@ -1,8 +1,11 @@
 {
     "urls": [
         {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ddtb.json",
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
             "name": "yydd备用线路"
+        },  {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ddtb.json",
+            "name": "dd备用线路"
         }, 
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/fmbftb.json",
@@ -55,15 +58,8 @@
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
             "name": "Yosakoii线路"
-        },
-          {
-            "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "name": "胖鸭线路"
-        },
-        {
-            "url": "https://www.lianyingtv.com/fast/fast",
-            "name": "恋影线路"
-        }		
+        }
+         
       ]  
 }
 
