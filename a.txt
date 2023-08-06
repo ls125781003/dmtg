@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "http://xn--sss604efuw.top/tv",
+            "url": "http://xn--t75a.eu.org/tv",
             "name": "饭太硬线路一"
         },
         {
@@ -21,7 +21,7 @@
             "name": "饭太硬备用线路"
         },    
         {
-            "url": "http://饭太硬.ml/tv",
+            "url": "http://饭.eu.org/tv",
             "name": "饭太硬备用线路二"
         },     
         {
