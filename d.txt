@@ -25,7 +25,7 @@
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQTVBox.json",
-            "name": "香雅情备用线路[原画在前]"
+            "name": "香雅情备用线路[转码在前]"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
