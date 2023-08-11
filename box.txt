@@ -58,6 +58,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
@@ -94,6 +95,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
@@ -104,6 +106,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
@@ -114,6 +117,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
@@ -124,6 +128,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
@@ -134,6 +139,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
@@ -144,6 +150,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
@@ -154,6 +161,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
         },
         {
