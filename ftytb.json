@@ -1,10 +1,10 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
     "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "sites": [
         {
             "key": "js豆豆",
-            "name": "🔍豆瓣网",
+            "name": "🌈豆瓣网",
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
@@ -17,6 +17,10 @@
             "name": "🅱哔哔┃合集",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
@@ -27,6 +31,10 @@
             "name": "🅱哔哔┃演唱会",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
@@ -37,6 +45,9 @@
             "name": "🎸明星┃MV",
             "type": 1,
             "api": "https://mv.wogg.link/mv/vod",
+            "style": {
+                "type": "oval"
+            },
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
@@ -58,7 +69,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
         },
         {
             "key": "陌陌",
@@ -370,6 +381,10 @@
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -379,6 +394,10 @@
             "name": "⚽ Jrs┃球迷",
             "type": 3,
             "api": "csp_XPath",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -389,6 +408,10 @@
             "name": "⚽310┃看球",
             "type": 3,
             "api": "csp_XYQBiu",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -399,20 +422,28 @@
             "name": "🐧企鹅┃体育",
             "type": 3,
             "api": "csp_XPath",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/tv/企鹅直播.json"
         },
         {
-            "key": "csp_XBPQ_酷奇",
+            "key": "酷奇js",
             "name": "🎤酷奇┃MV",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://饭太硬.top/tv/酷奇MV.json"
+            "changeable": 0
         },
         {
             "key": "虎牙直播js",
@@ -420,6 +451,10 @@
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -430,6 +465,10 @@
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -450,6 +489,10 @@
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -462,7 +505,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "Zhaozy",
@@ -472,7 +515,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
         },
         {
             "key": "PanSou",
@@ -482,7 +525,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -492,7 +535,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "PanSearch",
@@ -502,7 +545,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "七夜",
@@ -512,7 +555,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "push_agent",
@@ -521,7 +564,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "csp_Nbys",
@@ -547,6 +590,10 @@
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -556,6 +603,10 @@
             "name": "📚少儿┃教育",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -566,6 +617,10 @@
             "name": "📚小学┃课堂",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -576,6 +631,10 @@
             "name": "📚初中┃课堂",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -586,11 +645,16 @@
             "name": "📚高中┃课堂",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
             "ext": "http://饭太硬.top/tv/高中课堂.json"
         },
+      
         {
             "key": "cc",
             "name": "请勿相信视频中任何广告",
