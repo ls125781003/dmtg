@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "🐼┃豆瓣┃",
+            "name": "🐼┃豆瓣",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
             "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
@@ -19,6 +19,26 @@
             "name": "📺┃竞技┃直播",
             "type": 3,
             "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "alist",
+            "name": "🍰┃小鸭┃网盘",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://alist.xn--z7x900a.love:63/alist.json"
+        },
+        {
+            "key": "荐片",
+            "name": "🎬┃荐片┃影视",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -132,7 +152,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2,
-            "ext": "https://czzy.art/"
+            "ext": "https://cz01.me/"
         },
         {
             "key": "双十",
@@ -191,13 +211,6 @@
             "filterable": 1
         },
         {
-            "key": "肥猫",
-            "name": "😸┃肥猫┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "http://我不是.肥猫.love:63/json/芸芸.json"
-        },
-        {
             "key": "飞速",
             "name": "🚄┃影探┃影视",
             "type": 3,
@@ -216,6 +229,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://lg.tvcms.top/api.php/app/"
+        },
+        {
+            "key": "蘑菇",
+            "name": "🍄┃蘑菇┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/蘑菇.json"
         },
         {
             "key": "csp_Lib",
@@ -592,7 +615,7 @@
             "filterable": 1,
             "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
         },
-        {
+       {
             "key": "cc",
             "name": "请勿相信视频中任何广告",
             "type": 3,
