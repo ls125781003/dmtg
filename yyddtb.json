@@ -204,21 +204,6 @@
             ]
         },
         {
-            "key": "csp_woggcli",
-            "name": "💂‍┃玩偶┃磁力",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "ali_cli",
-            "name": "🍨┃聚搜┃磁力",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/ali/cli_Ali"
-        },
-        {
             "key": "csp_WoGG",
             "name": "💂‍┃阿里┃玩偶",
             "type": 3,
