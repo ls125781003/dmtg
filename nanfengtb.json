@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;88395AF3CD17756128B3133AA8FC009F",
+    "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6776E86CB1AB3F0C44B9BCAB00C7F54B",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -20,15 +20,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/drpy.js"
-        },
-        {
-            "key": "csp_woggcli",
-            "name": "👽jundie玩偶",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "360",
@@ -90,16 +81,6 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
-            "key": "影探",
-            "name": "👿影探",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yt888168.lfytyl.com/api.php/app/"
-        },
-        {
             "key": "爱迪",
             "name": "🍟爱迪",
             "type": 3,
@@ -150,28 +131,10 @@
             "filterable": 0
         },
         {
-            "key": "csp_Dy1010",
-            "name": "⏺双十电影",
-            "type": 3,
-            "api": "csp_Dy1010",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Cokemv",
             "name": "🚗可乐",
             "type": 3,
             "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "✌两个BT",
-            "type": 3,
-            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -234,16 +197,6 @@
             "ext": "https://www.ysgc.fun"
         },
         {
-            "key": "csp_Lgyy",
-            "name": "💧蓝光影院",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.lgyy.vip"
-        },
-        {
             "key": "csp_Anime1",
             "name": "🌸动漫",
             "type": 3,
@@ -289,13 +242,15 @@
             "filterable": 1
         },
         {
-            "key": "阿里聚搜",
-            "name": "🅰阿里聚搜",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/ali/cli_Ali",
+            "key": "Alist",
+            "name": "🅰Alist",
+            "type": 3,
+            "api": "csp_AList",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"
         },
         {
             "key": "csp_WoGG",
@@ -683,14 +638,12 @@
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"
         },
         {
-            "key": "push_agent",
+            "key": "cc",
             "name": "请勿相信视频中任何广告",
             "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0
         }
     ],
     "parses": [
@@ -707,7 +660,12 @@
         {
             "name": "小新",
             "type": 1,
-            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=airuwyzBCGJQVXY069&url="
+            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cghkopqtuBFHKQSW38&url="
+        },
+        {
+            "name": "哥哥们",
+            "type": 1,
+            "url": "https://jx.wogg.link/jx.php?config=http://api.xn--sss604efuw.top/jx&url="
         },
         {
             "name": "777",
@@ -858,7 +816,7 @@
             "type": 0,
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
             "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
@@ -945,6 +903,17 @@
             ],
             "regex": [
                 "is_play_url="
+            ]
+        },
+        {
+            "name": "磁力",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
             ]
         }
     ],
