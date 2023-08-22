@@ -2,10 +2,10 @@
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "🐼┃豆瓣",
+            "name": "🐼┃豆瓣┃",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
+            "ext": "http://alist.xn--z7x900a.love:63/豆dou.js"
         },
         {
             "key": "直播转点播",
@@ -37,7 +37,7 @@
             "key": "荐片",
             "name": "🎬┃荐片┃影视",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -47,7 +47,7 @@
             "key": "磁力熊",
             "name": "🐻┃熊熊┃磁力",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/磁力熊.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -57,7 +57,7 @@
             "key": "yyds",
             "name": "🔥┃杳音┃影院",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "playerType": "2",
             "ext": "http://alist.xn--z7x900a.love:63/yyds.js",
             "searchable": 1,
@@ -69,7 +69,7 @@
             "name": "🦢┃素白┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "http://我不是.肥猫.love:63/json/素白.json"
+            "ext": "http://我不是.肥猫.love:63/json/素白白.json"
         },
         {
             "key": "夜夜",
@@ -214,7 +214,7 @@
             "key": "飞速",
             "name": "🚄┃影探┃影视",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -304,7 +304,7 @@
             "key": "drpy_js_奇珍异兽",
             "name": "🐨┃爱奇┃官源",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/爱奇.js"
         },
         {
@@ -472,7 +472,7 @@
             "key": "js虎牙",
             "name": "🐅┃虎牙┃直播",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/虎牙直播.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -502,7 +502,7 @@
             "key": "dr_88看球",
             "name": "🏀┃八八┃看球",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -512,7 +512,7 @@
             "key": "drpy_js_JRKAN直播",
             "name": "🏀┃JRS┃看球",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/JRKAN直播.js"
         },
         {
@@ -529,14 +529,14 @@
             "key": "drpy_js_有声小说吧",
             "name": "📻┃有声┃小说",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/有声小说吧.js"
         },
         {
             "key": "drpy_js_蜻蜓FM",
             "name": "📻┃蜻蜓┃收音",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
         },
         {
@@ -615,13 +615,15 @@
             "filterable": 1,
             "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
         },
-       {
-            "key": "cc",
+         {
+            "key": "push_agent",
             "name": "请勿相信视频中任何广告",
             "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0
+            "api": "csp_Push",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
         }
     ],
     "lives": [
@@ -1020,7 +1022,7 @@
         "vip.ffzyad.com",
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ],
-    "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
+    "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
     "warningText": "接口完全免费，切勿付费购买。",
     "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230803.jar;md5;F3186F44835CD46EF458744D797BD9CC"
 }
