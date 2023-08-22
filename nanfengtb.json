@@ -657,15 +657,13 @@
             "filterable": 1,
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"
         },
-            {
-            "key": "push_agent",
+           {
+            "key": "cc",
             "name": "请勿相信视频中任何广告",
             "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0
         }
     ],
     "parses": [
