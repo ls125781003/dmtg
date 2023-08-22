@@ -1,5 +1,6 @@
 {
-    "spider": "https://jihulab.com/duomv/duox/-/raw/main/ali.jar;md5;1FFF6D331BFDA53590174A65D5844171",
+    //"spider": "https://jihulab.com/duomv/duox/-/raw/main/ali.jar;md5;1FFF6D331BFDA53590174A65D5844171",
+    "spider": "./yyddali.jar",
     "wallpaper": "https://jianbian.chuqiuyu.tk",
     "warningText": "接口免费整理维护，请勿付费购买",
     "sites": [
