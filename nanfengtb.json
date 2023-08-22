@@ -1,7 +1,17 @@
 {
-    "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6776E86CB1AB3F0C44B9BCAB00C7F54B",
+    //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;32BA800637272A7DFFF64A0FFA6695B3",
+    "spider": "./Yoursmile.jar",  
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
+        {
+            "key": "csp_DouDou",
+            "name": "🔍豆瓣",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
         {
             "key": "csp_77",
             "name": "👒酷云七七",
@@ -10,16 +20,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "dr_豆瓣",
-            "name": "🔍豆瓣",
-            "type": 3,
-            "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/drpy.js"
         },
         {
             "key": "360",
@@ -42,6 +42,16 @@
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"
         },
         {
+            "key": "csp_SixV",
+            "name": "🧲新6V",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.xb6v.com/"
+        },
+        {
             "key": "快看",
             "name": "👀快看",
             "type": 3,
@@ -57,28 +67,55 @@
             "api": "csp_Czsapp",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "📺低端",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_Zxzj",
+            "name": "🏠在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzj.pro/"
+        },
+        {
+            "key": "csp_Auete",
+            "name": "🐼奥特",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "csp_fantuan",
-            "name": "🍙饭团",
+            "key": "酷酷",
+            "name": "🚀酷酷",
             "type": 3,
-            "api": "csp_Fantuan",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.fantuan3.com"
+            "ext": "http://ys.realdou.cn:2683/api.php/app/"
         },
         {
-            "key": "csp_YQKAPP",
-            "name": "🌎一起看",
+            "key": "彩虹",
+            "name": "🌈彩虹",
             "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://api-aws.11ty.top"
+            "changeable": 1,
+            "ext": "http://jh.dytt996.com:996/api.php/app/"
         },
         {
             "key": "爱迪",
@@ -122,13 +159,15 @@
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/新视觉影院.json"
         },
         {
-            "key": "csp_DiDuan",
-            "name": "📺低端",
+            "key": "csp_YQKAPP",
+            "name": "🌎一起看",
             "type": 3,
-            "api": "csp_Ddrk",
+            "api": "csp_YQKAPP",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1,
+            "ext": "https://api-aws.11ty.top"
         },
         {
             "key": "csp_Cokemv",
@@ -159,29 +198,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_Zxzj",
-            "name": "🏠在线之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzj.pro/"
-        },
-        {
             "key": "csp_Voflix",
             "name": "🌀Voflix",
             "type": 3,
             "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Auete",
-            "name": "🐼奥特",
-            "type": 3,
-            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -637,13 +657,15 @@
             "filterable": 1,
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"
         },
-        {
-            "key": "cc",
+            {
+            "key": "push_agent",
             "name": "请勿相信视频中任何广告",
             "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0
+            "api": "csp_Push",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         }
     ],
     "parses": [
@@ -660,46 +682,17 @@
         {
             "name": "小新",
             "type": 1,
-            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cghkopqtuBFHKQSW38&url="
+            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cehklprBCEPUVWY234&url="
         },
         {
             "name": "哥哥们",
             "type": 1,
-            "url": "https://jx.wogg.link/jx.php?config=http://api.xn--sss604efuw.top/jx&url="
+            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
             "name": "777",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "bozrc",
-            "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -755,9 +748,64 @@
             }
         },
         {
-            "name": "左岸",
+            "name": "jsonplayer",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "xmflv",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
+            "name": "bozrc",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -866,7 +914,7 @@
     ],
     "rules": [
         {
-            "name": "量子",
+            "name": "lz",
             "hosts": [
                 "vip.lz",
                 "hd.lz"
@@ -877,7 +925,7 @@
             ]
         },
         {
-            "name": "非凡",
+            "name": "ff",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
@@ -888,7 +936,18 @@
             ]
         },
         {
-            "name": "火山",
+            "name": "bf",
+            "hosts": [
+                "bfzy",
+                "s5.bfzycdn"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "hs",
             "hosts": [
                 "huoshan.com"
             ],
@@ -897,7 +956,7 @@
             ]
         },
         {
-            "name": "抖音",
+            "name": "dy",
             "hosts": [
                 "douyin.com"
             ],
@@ -906,7 +965,7 @@
             ]
         },
         {
-            "name": "磁力",
+            "name": "cl",
             "hosts": [
                 "magnet"
             ],
