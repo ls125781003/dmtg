@@ -676,7 +676,7 @@
       {
         "id": 6,
         "name": "CQYX",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV-URL/main/cqyx.m3u",
         "isActive": false,
         "type": "remote",
         "epg": ""
