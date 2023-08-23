@@ -692,7 +692,7 @@
       {
         "id": 8,
         "name": "4k/8k",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV-URL/main/IPTV.m3u",
         "isActive": true,
         "type": "remote",
         "epg": ""
@@ -716,7 +716,7 @@
       {
         "id": 11,
         "name": "爱尚",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV-URL/main/aishang.m3u",
         "isActive": false,
         "type": "remote",
         "epg": ""
