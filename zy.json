@@ -650,22 +650,6 @@
         "epg": "https://epg.112114.xyz/"
       },
       {
-        "id": 3,
-        "name": "肥羊精选",
-        "url": "https://telegram-feiyangdigital.v1.mk",
-        "isActive": true,
-        "type": "remote",
-        "epg": ""
-      },
-      {
-        "id": 4,
-        "name": "凤凰资讯",
-        "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8",
-        "isActive": true,
-        "type": "remote",
-        "epg": ""
-      },
-      {
         "id": 5,
         "name": "茶客",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
@@ -780,7 +764,7 @@
       {
         "id": 19,
         "name": "IPV6专用",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
         "type": "remote",
         "epg": "http://epg.112114.xyz",
         "isActive": true
