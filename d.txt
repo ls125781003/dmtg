@@ -49,6 +49,10 @@
         },
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "name": "荷城茶秀git线路"
+        }, 
+       {
+            "url":"http://rihou.cc:88/荷城茶秀/",
             "name": "荷城茶秀线路"
         }, 
           {
