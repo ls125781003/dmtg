@@ -1,11 +1,11 @@
 {
-    //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c80207edebbe5019a688fd2eb653e005",
+    //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7",
     "spider": "./fan.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
             "key": "豆豆",
-            "name": "豆瓣网┃搜索",
+            "name": "豆瓣网🌏",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -80,16 +80,6 @@
             "ext": "http://www.xb6v.com/"
         },
         {
-            "key": "专线",
-            "name": "🚅专线┃App",
-            "type": 3,
-            "api": "csp_ZhuanX",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/"
-        },
-        {
             "key": "迪迪",
             "name": "😎迪迪┃App",
             "api": "csp_AppYsV2",
@@ -150,14 +140,24 @@
         },
         {
             "key": "探探",
-            "name": "🏵探探┃App",
+            "name": "🏵影探┃App",
             "type": 3,
             "playerType": "1",
             "api": "csp_YTVIP",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
+            "ext": "vip.lyyytv.cn"
+        },
+        {
+            "key": "哈喽",
+            "name": "✌哈喽┃App",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
             "key": "陌陌",
@@ -180,16 +180,6 @@
             "ext": "https://ttsp.live/api.php/app/"
         },
         {
-            "key": "哈喽",
-            "name": "✌哈喽┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v1/"
-        },
-        {
             "key": "酷酷",
             "name": "💡酷酷┃App",
             "type": 3,
@@ -197,7 +187,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://ys.realdou.cn:2683/api.php/app/"
+            "ext": "http://cms.realdou.cn:35264/api.php/app/"
         },
         {
             "key": "77",
@@ -672,7 +662,7 @@
             "changeable": 0,
             "ext": "http://饭太硬.top/x/json/高中课堂.json"
         },
- 
+       
         {
             "key": "cc",
             "name": "请勿相信视频中任何广告",
@@ -694,9 +684,9 @@
             "url": "Web"
         },
         {
-            "name": "神秘",
+            "name": "神秘的",
             "type": 1,
-            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
+            "url": "http://json.g9.pub:66/?url="
         },
         {
             "name": "哥哥们",
@@ -777,7 +767,7 @@
             "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
         },
         {
-            "name": "坏了",
+            "name": "坏了我",
             "type": 0,
             "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
             "ext": {
@@ -807,48 +797,9 @@
             }
         },
         {
-            "name": "我再找来",
+            "name": "再找来",
             "type": 1,
-            "url": "https://b.umkan.cc/API.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ]
-            }
+            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
         }
     ],
     "rules": [
@@ -919,7 +870,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+            "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -956,8 +907,6 @@
         "imgo",
         "芒果TV",
         "芒 果 T V",
-        "qiqi",
-        "kuying-qq",
         "bilibili",
         "哔 哩",
         "哔 哩 哔 哩"
