@@ -1,6 +1,6 @@
 {
-    //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;32BA800637272A7DFFF64A0FFA6695B3",
-    "spider": "./Yoursmile.jar",  
+    //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
+    "spider": "./Yoursmile.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -105,7 +105,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ys.realdou.cn:2683/api.php/app/"
+            "ext": "http://cms.realdou.cn:35264/api.php/app/"
         },
         {
             "key": "彩虹",
@@ -456,16 +456,6 @@
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/臭蛋蛋.json"
         },
         {
-            "key": "达达龟",
-            "name": "💢达达龟",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/达达龟.json"
-        },
-        {
             "key": "零零七",
             "name": "💢零零七",
             "type": 3,
@@ -657,7 +647,7 @@
             "filterable": 1,
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"
         },
-           {
+         {
             "key": "cc",
             "name": "请勿相信视频中任何广告",
             "type": 3,
@@ -691,35 +681,6 @@
             "name": "777",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "zhanglang",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
