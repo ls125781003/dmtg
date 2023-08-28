@@ -43,6 +43,9 @@
             "name": "🤖┃爱看┃机器",
             "type": 3,
             "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/ikanbot2.js"
         },
         {
@@ -1327,7 +1330,7 @@
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
-      
+       
         {
             "key": "说明",
             "name": "请勿相信视频中任何广告",
