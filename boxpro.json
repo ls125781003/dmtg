@@ -30,18 +30,18 @@
             "quickSearch": 0,
             "filterable": 0
         },{"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
-         {
-      "key": "csp_Nmys",
+        {
+      "key": "csp_农民",
       "name": "✈️速度流畅",
       "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/nmys.json"
+      "ext": "https://jihulab.com/ygbh1/box/-/raw/main/H/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
     },{"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63303/TVB%E4%BA%91%E6%92%AD%28xBPQ%29.json?sign=D7u6b1vB57heVQdexskilQyAnu6CAOY0J1gIxm0wDvs%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
-        {"key":"csp_Kunyu77","name":"🌍77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
-        {"key":"csp_Ddys","name":"⛳低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
+        {"key":"csp_Kunyu77","name":"🌍77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},{"key":"乐猪影视","name":"🐖乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/lezhu.json"},{"key":"sc影视","name":"🌸盛城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/sc1080.json"},{"key":"suying影视","name":"🍓速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/suying.json"},{"key":"笑笑影视","name":"🌹笑笑影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/xiaoxiao.json"},{ "key": "365", "name": "🌙365秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},{"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},
+        {"key":"csp_Ddys","name":"⛳低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/dadagui.json"},
         {
       "key": "csp_zxzj",
       "name": "📗超前点播",
@@ -52,15 +52,7 @@
       "filterable": 1,
       "ext": "https://www.zxzj.pro/"
     }, {"key":"drpy_js_超前点播","name":"🍌VIP影视","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"}, {"key":"csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},{"key": "csp_XYQHiker_臭蛋蛋影视","name":"🎗臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/cdd.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
-     {
-      "key": "csp_Ikanbot",
-      "name": "👾爱看多线",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/og.jar"
-    },  {
+ {
       "key": "瑞丰",
       "name": "🌈彩虹影视",
       "type": 3,
@@ -563,11 +555,11 @@
             "key": "dr_88看球",
             "name": "🏀八八看球",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://alist.xn--z7x900a.love:63/88看球.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/h/88k.js"
         },
         {
             "key": "drpy_js_JRKAN直播",
@@ -649,6 +641,7 @@
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
      
 ],
+
 
 
 
