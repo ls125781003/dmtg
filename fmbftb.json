@@ -548,7 +548,7 @@
             "playerType": 1,
             "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd"
         },
-         {
+       {
             "key": "cc",
             "name": "请勿相信视频中任何广告",
             "type": 3,
