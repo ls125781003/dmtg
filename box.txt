@@ -1,24 +1,24 @@
 {
-    //"spider": "https://jihulab.com/duomv/duox/-/raw/main/ali.jar;md5;1FFF6D331BFDA53590174A65D5844171",
-    "spider": "./yyddali.jar",
+    //"spider": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;1FFF6D331BFDA53590174A65D5844171",
+    "spider":"./yyddali.jar",
     "wallpaper": "https://jianbian.chuqiuyu.tk",
     "warningText": "接口免费整理维护，请勿付费购买",
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "🍥┃豆瓣网┃阿里搜索🍥",
+            "name": "🍥┃豆瓣网┃🍥",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/douban.js"
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/douban.js"
         },
         {
             "key": "js豆瓣备用",
             "name": "🍥┃豆瓣备用┃🍥",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duox/-/raw/main/js/doubanbf.js",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/doubanbf.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -52,7 +52,7 @@
             "type": 3,
             "playerType": 1,
             "api": "csp_XYQHikerAL",
-            "jar": "https://jihulab.com/duomv/duox/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
             "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
         },
         {
@@ -60,7 +60,7 @@
             "name": "👩‍🔬┃玩偶┃妹妹",
             "type": 3,
             "api": "csp_XYQHikerAL",
-            "jar": "https://jihulab.com/duomv/duox/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
             "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
         },
         {
@@ -69,7 +69,7 @@
             "type": 3,
             "playerType": 1,
             "api": "csp_XYQHiker",
-            "jar": "https://jihulab.com/duomv/duox/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
             "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
         },
         {
@@ -136,47 +136,47 @@
             "key": "js_企鹅",
             "name": "🐧┃企鹅┃基地",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/qtv.js"
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/qtv.js"
         },
         {
             "key": "js_奇异",
             "name": "🥝┃奇异┃大厂",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/qzys.js"
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/qzys.js"
         },
         {
             "key": "js_芒果",
             "name": "🥭┃芒芒┃大厂",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/baimang.js"
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/baimang.js"
         },
         {
             "key": "js_优酷",
             "name": "👑┃油库┃大厂",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/youku.js"
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/youku.js"
         },
         {
             "key": "js_菜狗",
             "name": "🐕️┃菜狗┃大厂",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
