@@ -13,7 +13,7 @@
         }, 
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/xbpqbf/main/api.json",
-            "name": "xbpq备用线路"
+            "name": "小米(小暴脾气)备用线路"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ftytb.json",
