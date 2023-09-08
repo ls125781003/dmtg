@@ -1,11 +1,11 @@
 {
-    //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7",
+    //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
     "spider": "./fan.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
             "key": "豆豆",
-            "name": "豆瓣网🌏",
+            "name": "🌏豆瓣网",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -20,7 +20,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
         },
         {
             "key": "Bili",
@@ -100,13 +100,15 @@
             "changeable": 1
         },
         {
-            "key": "DiDuan",
-            "name": "⏮️低端┃直连",
+            "key": "率率",
+            "name": "💡率率┃App",
             "type": 3,
-            "api": "csp_Ddrk",
+            "api": "csp_AppYsV2",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "http://s.ether-mine.com/api.php/app/"
         },
         {
             "key": "Auete",
@@ -180,14 +182,13 @@
             "ext": "https://ttsp.live/api.php/app/"
         },
         {
-            "key": "酷酷",
-            "name": "💡酷酷┃App",
+            "key": "DiDuan",
+            "name": "⏮️低端┃直连",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://cms.realdou.cn:35264/api.php/app/"
+            "changeable": 1
         },
         {
             "key": "77",
@@ -375,7 +376,7 @@
             "key": "88js",
             "name": "⚽ 88┃看球",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
             "style": {
                 "type": "rect",
@@ -443,7 +444,7 @@
             "key": "酷奇js",
             "name": "🎤酷奇┃MV",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
             "style": {
                 "type": "rect",
@@ -457,7 +458,7 @@
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
             "style": {
                 "type": "rect",
@@ -471,7 +472,7 @@
             "key": "csp_XYQBiu_斗鱼",
             "name": "🐟斗鱼┃直播",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
             "style": {
                 "type": "rect",
@@ -495,7 +496,7 @@
             "key": "有声小说js",
             "name": "🎧有声┃小说",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
             "style": {
                 "type": "rect",
@@ -596,7 +597,7 @@
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
             "style": {
                 "type": "rect",
@@ -684,23 +685,13 @@
             "url": "Web"
         },
         {
-            "name": "神秘的",
-            "type": 1,
-            "url": "http://json.g9.pub:66/?url="
-        },
-        {
-            "name": "哥哥们",
+            "name": "神秘的哥哥们",
             "type": 1,
             "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
-            "name": "全部",
+            "name": "解析",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-        },
-        {
-            "name": "来自",
-            "type": 0,
             "url": "https://jx.zhanlangbu.com/?url=",
             "ext": {
                 "flag": [
@@ -725,6 +716,16 @@
                     "xigua"
                 ]
             }
+        },
+        {
+            "name": "全部",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+        },
+        {
+            "name": "来自",
+            "type": 0,
+            "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
         },
         {
             "name": "网络",
@@ -872,6 +873,7 @@
             "type": 0,
             "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
             "playerType": 1,
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
