@@ -43,11 +43,7 @@
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "菜妮丝线路"
-        }, 
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "小米(小暴脾气)线路"
-        },            
+        },          
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "俊佬线路"
