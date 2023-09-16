@@ -2,66 +2,66 @@
     "urls": [
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
-            "name": "yydd备用线路"
+            "name": "yydd备用"
         },  {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ddtb.json",
-            "name": "dd备用线路"
+            "name": "dd备用"
         }, 
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/fmbftb.json",
-            "name": "fmbf备用线路"
+            "name": "fm备用"
         }, 
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/xbpqbf/main/api.json",
-            "name": "小米(小暴脾气)备用线路"
+            "name": "小米(小暴脾气)备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ftytb.json",
-            "name": "fty备用线路"
+            "name": "fty备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQ.json",
-            "name": "香雅情线路"
+            "name": "香雅情"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQTVBox.json",
-            "name": "香雅情备用线路[转码在前]"
+            "name": "香雅情[转码在前]"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
-            "name": "dr_js备用线路"
+            "name": "dr_js备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/boxpro.json",
-            "name": "ygbh备用线路"
+            "name": "ygbh备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
-            "name": "阿里合集备用线路"
+            "name": "阿里合集备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
-            "name": "nanfeng备用线路"
+            "name": "nanfeng备用"
         },
         {
             "url":"https://download.kstore.space/download/3313/mao/ymz",
-            "name": "夜猫子线路"
+            "name": "夜猫子"
         },
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-            "name": "荷城茶秀git线路"
+            "name": "荷城茶秀git"
         }, 
        {
             "url":"http://rihou.cc:88/荷城茶秀/",
-            "name": "荷城茶秀线路"
+            "name": "荷城茶秀"
         }, 
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "高天流云线路"
+            "name": "高天流云"
         }, 
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
-            "name": "Yosakoii线路"
+            "name": "Yosakoii"
         }
          
       ]  
