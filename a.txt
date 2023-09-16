@@ -27,27 +27,27 @@
         
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "肥猫线路"
+            "name": "肥猫"
         },                
         {
             "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "唐三线路"
+            "name": "唐三"
         },      
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "蜂蜜线路"
+            "name": "蜂蜜"
         },                                                               
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "道长线路"
+            "name": "道长"
         },
         {
             "url": "https://tvbox.cainisi.cf",
-            "name": "菜妮丝线路"
+            "name": "菜妮丝"
         },          
         {
             "url": "http://home.jundie.top:81/top98.json",
-            "name": "俊佬线路"
+            "name": "俊佬"
         },     
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
@@ -55,15 +55,15 @@
         },
         {
             "url": "https://xhdwc.tk/0",
-            "name": "dxawi0线路"
+            "name": "dxawi0"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-            "name": "老刘备线路"
+            "name": "老刘备"
         },        
         { 
              "url": "https://weixine.net/ysc.json", 
-             "name": "运输车线路主线" 
+             "name": "运输车主线" 
          }
     ]
 }
