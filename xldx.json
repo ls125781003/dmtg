@@ -2,46 +2,46 @@
     "urls": [
        {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
-            "name": "yydd备用线路"
+            "name": "yydd备用"
         },  {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ddtb.json",
-            "name": "dd备用线路"
+            "name": "dd备用"
         }, 
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/fmbftb.json",
-            "name": "fm备用线路"
+            "name": "fm备用"
         }, 
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/xbpqbf/main/api.json",
-            "name": "小米(小暴脾气)备用线路"
+            "name": "小米(小暴脾气)备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ftytb.json",
-            "name": "fty备用线路"
+            "name": "fty备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQ.json",
-            "name": "香雅情线路"
+            "name": "香雅情"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQTVBox.json",
-            "name": "香雅情备用线路[转码在前]"
+            "name": "香雅情[转码在前]"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
-            "name": "dr_js备用线路"
+            "name": "dr_js备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/boxpro.json",
-            "name": "ygbh备用线路"
+            "name": "ygbh备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
-            "name": "阿里合集备用线路"
+            "name": "阿里合集备用"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
-            "name": "nanfeng备用线路"
+            "name": "nanfeng备用"
         }, 
        {
             "url": "http://fan.xxooo.cf/tv",
@@ -54,7 +54,11 @@
         {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬_3"
-        },         
+        },        
+        {  
+              "url": "http://xhww.fun:63/小米/DEMO.json",  
+              "name": "小暴脾气"  
+        },                       
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "肥猫"
@@ -66,7 +70,7 @@
        
         { 
              "url": "https://weixine.net/ysc.json", 
-             "name": "运输车线路主线" 
+             "name": "运输车主线" 
          }
     ]
 }
