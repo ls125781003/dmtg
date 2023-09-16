@@ -2,59 +2,59 @@
     "urls": [ 
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
-            "name": "不良帅线路"
+            "name": "不良帅"
         },         
         {
             "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "乱世线路"
+            "name": "乱世"
         }, 
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-            "name": "一影视线路"
+            "name": "一影视"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
-            "name": "佰欣园线路"
+            "name": "佰欣园"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/甜蜜.json",
-            "name": "甜蜜线路"
+            "name": "甜蜜js"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py甜蜜.json",
-            "name": "甜蜜py版线路"
+            "name": "甜蜜py"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
-            "name": "一木线路"
+            "name": "一木"
         },        
         {
             "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
-            "name": "kvymin线路"
+            "name": "kvymin"
         },
         {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "agit/abc线路"
+            "name": "agit/abc"
         },
         {
             "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-            "name": "zzz1线路"
+            "name": "zzz1"
         },
         {
             "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "元兴线路"
+            "name": "元兴"
         },
           {
             "url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
-            "name": "刺桐线路"
+            "name": "刺桐"
         },
           {
             "url":"https://xzam.cn/tv",
-            "name": "小胡线路"
+            "name": "小胡"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
-            "name": "小马线路"
+            "name": "小马"
         }
     ]
 }
