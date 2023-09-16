@@ -6,7 +6,7 @@
         },
         {
             "url": "http://101.34.67.237/config/1",
-            "name": "小雅线路"
+            "name": "小雅"
         },  
         {
             "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
@@ -14,15 +14,15 @@
         },  
         {
             "url": "https://la.kstore.space/download/2863/01.txt",
-            "name": "潇洒线路"
+            "name": "潇洒"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风线路"
+            "name": "南风"
         },
         {
             "url": "https://la.kstore.space/download/2883/0110.txt",
-            "name": "蚂蚁论坛线路"
+            "name": "蚂蚁论坛"
         },                                
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
@@ -30,11 +30,11 @@
         },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-            "name": "欧歌线路"
+            "name": "欧歌"
         },        
         {
             "url": "http://52bsj.vip:98/wuai",
-            "name": "吾爱线路"
+            "name": "吾爱"
         }, 
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
@@ -42,31 +42,31 @@
         },                  
         {
             "url": "http://miaotvs.cn/meow",
-            "name": "喵影视线路"
+            "name": "喵影视"
         },
         {
             "url": "https://源享家.ml/23424",
-            "name": "源享家线路"
+            "name": "源享家"
         }, 
         {
             "url": "http://8.210.232.168/xc.json",
-            "name": "星辰线路"
+            "name": "星辰"
         },          
         {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "分享者线路"
+            "name": "分享者"
         },
         {
             "url": "https://ju.binghe.ga/4.txt",
-            "name": "冰河线路"
+            "name": "冰河"
         },
          {
             "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "name": "胖鸭线路"
+            "name": "胖鸭"
         },
         {
             "url": "https://www.lianyingtv.com/fast/fast",
-            "name": "恋影线路"
+            "name": "恋影"
         }		
     ]
 }
