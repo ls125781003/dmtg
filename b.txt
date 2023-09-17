@@ -8,10 +8,22 @@
             "url": "http://101.34.67.237/config/1",
             "name": "小雅"
         },  
-        {
-            "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
-            "name": "教育专线"
-        },  
+         {
+	    "url": "https://gitee.com/lekanbox/ali/raw/master/api.json",
+	    "name": "阿里巴巴[运输车]"
+	},
+	{
+	    "url": "https://gitee.com/lekanbox/ali/raw/master/ali.json",
+	    "name": "阿里无敌[运输车]"
+	},
+	{
+	     "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+	     "name": "教育专线[运输车]"
+	},
+	{
+	     "url": "http://weixine.link:33/",
+	     "name": "国内快线[运输车]"
+	},
         {
             "url": "https://la.kstore.space/download/2863/01.txt",
             "name": "潇洒"
