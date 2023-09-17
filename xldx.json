@@ -75,22 +75,22 @@
             "url": "http://cdn.yydsys.top/duo",
             "name": "多多_2"
         },
-       {
-			"url": "https://gitee.com/lekanbox/ali/raw/master/api.json",
-			"name": "阿里巴巴[运输车]"
-		},
-		{
-			"url": "https://gitee.com/lekanbox/ali/raw/master/ali.json",
-			"name": "阿里无敌[运输车]"
-		},
-		{
-			"url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
-			"name": "教育专线[运输车]"
-		},
-		{
-			"url": "http://weixine.link:33/",
-			"name": "国内快线[运输车]"
-		}
+        {
+	    "url": "https://gitee.com/lekanbox/ali/raw/master/api.json",
+	    "name": "阿里巴巴[运输车]"
+	},
+	{
+	    "url": "https://gitee.com/lekanbox/ali/raw/master/ali.json",
+	    "name": "阿里无敌[运输车]"
+	},
+	{
+	     "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+	     "name": "教育专线[运输车]"
+	},
+	{
+	     "url": "http://weixine.link:33/",
+	     "name": "国内快线[运输车]"
+	}
     ]
 }
 
