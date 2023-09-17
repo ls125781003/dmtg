@@ -69,9 +69,12 @@
         },  
         {
             "url": "https://yydsys.top/duo",
-            "name": "多多"
+            "name": "多多_1"
         },
-       
+        {
+            "url": "http://cdn.yydsys.top/duo",
+            "name": "多多_2"
+        },
         { 
              "url": "https://weixine.net/ysc.json", 
              "name": "运输车主线" 
