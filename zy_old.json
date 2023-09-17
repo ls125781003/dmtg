@@ -583,7 +583,7 @@
         "download": "",
         "playUrl": "http://cms.itcxo.cn/v1.vod/icciu_api/chenxi.php?key=微信公众号云烟小助手&url=",
         "search": 1,
-        "group": "采集配合解析",
+        "group": "采集配解析",
         "status": true,
         "isActive": true,
         "type": 1,
@@ -627,6 +627,123 @@
         "isActive": true,
         "type": 3,
         "id": 67
+      },
+      {
+        "key": "gvideo",
+        "name": "苹果云视听",
+        "api": "https://www.gvideo.me/api.php/app/",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 3,
+        "id": 68
+      },
+      {
+        "key": "iptv8848",
+        "name": "8848",
+        "api": "http://bn.iptv8848.site/api.php/app/",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 3,
+        "id": 69
+      },
+      {
+        "key": "jlys6",
+        "name": "家里有事",
+        "api": "http://jlys6.top/mogai_api.php/v1.vod",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 4,
+        "id": 70
+      },
+      {
+        "key": "sc1080",
+        "name": "上次",
+        "api": "https://sc1080.top/api.php/v1.vod",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 4,
+        "id": 71
+      },
+      {
+        "key": "juquanweb",
+        "name": "具全",
+        "api": "http://xinxing.juquanweb.top/icciu_api.php/v1.vod",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 4,
+        "id": 72
+      },
+      {
+        "key": "ruifenglb",
+        "name": "瑞丰",
+        "api": "http://81.69.23.108:5566/ruifenglb_api.php/v1.vod",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 4,
+        "id": 73
+      },
+      {
+        "key": "chiguafilm",
+        "name": "吃瓜",
+        "api": "https://www.chiguafilm.com/api.php/v1.vod",
+        "download": "",
+        "playUrl": "",
+        "search": 0,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 4,
+        "id": 74
+      },
+      {
+        "key": "laimi",
+        "name": "徕米",
+        "api": "https://www.laimi.me/api.php/v1.vod?limit=12&page=1",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 4,
+        "id": 75
+      },
+      {
+        "key": "ishen520",
+        "name": "i神520",
+        "api": "http://app.ishen520.com/api.php/v1.vod",
+        "download": "",
+        "playUrl": "",
+        "search": 1,
+        "group": "app",
+        "status": true,
+        "isActive": true,
+        "type": 4,
+        "id": 76
       }
     ]
   },
@@ -639,7 +756,7 @@
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
         "type": "remote",
         "isActive": true,
-        "epg": "https://epg.112114.xyz/"
+        "epg": "https://epg.112114.eu.org/"
       },
       {
         "id": 2,
@@ -647,7 +764,7 @@
         "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
         "isActive": true,
         "type": "remote",
-        "epg": "https://epg.112114.xyz/"
+        "epg": "https://epg.112114.eu.org/"
       },
       {
         "id": 3,
@@ -766,7 +883,7 @@
         "name": "Ray直播",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
         "type": "remote",
-        "epg": "http://epg.112114.xyz",
+        "epg": "https://epg.112114.eu.org/",
         "isActive": true
       },
       {
@@ -774,7 +891,7 @@
         "name": "多多直播",
         "url": "https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
         "type": "remote",
-        "epg": "http://epg.112114.xyz",
+        "epg": "https://epg.112114.eu.org/",
         "isActive": true
       },
       {
@@ -782,7 +899,7 @@
         "name": "IPV6专用",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u",
         "type": "remote",
-        "epg": "http://epg.112114.xyz",
+        "epg": "https://epg.112114.eu.org/",
         "isActive": true
       },
       {
@@ -790,25 +907,9 @@
         "name": "电视伴音",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
         "type": "remote",
-        "epg": "http://epg.112114.xyz",
+        "epg": "https://epg.112114.eu.org/",
         "isActive": true
-      },
-      {
-        "id": 21,
-        "name": "超级MV",
-        "url": "https://bitbucket.org/xduo/json/raw/master/MV.txt",
-        "type": "remote",
-        "epg": "http://epg.112114.xyz",
-        "isActive": true
-      },
-      {
-        "id": 22,
-        "name": "俊于直播",
-        "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-        "type": "remote",
-        "epg": "http://epg.112114.xyz",
-        "isActive": true
-      }	  
+      }
     ]
   },
   "analyzes": {
