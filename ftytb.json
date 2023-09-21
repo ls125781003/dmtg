@@ -1,9 +1,10 @@
 {
-    //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
+   
     "spider": "./fan.jar",
+    //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
-        {
+         
             "key": "豆豆",
             "name": "🌏豆瓣网",
             "type": 3,
@@ -20,7 +21,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "Bili",
@@ -34,11 +35,11 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/bilibili.json"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
         },
         {
             "key": "Biliych",
-            "name": "🅱哔哔┃演唱会",
+            "name": "🅱哔哔┃歌曲",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -48,7 +49,20 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/biliych.json"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"
+        },
+        {
+            "key": "Aid",
+            "name": "🚑急救┃教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
         },
         {
             "key": "YGP",
@@ -87,7 +101,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
+            "ext": "http://22222.yiyingys.asia/api.php/app/"
         },
         {
             "key": "Czsapp",
@@ -100,15 +114,52 @@
             "changeable": 1
         },
         {
-            "key": "率率",
-            "name": "💡率率┃App",
+            "key": "蚂蚁",
+            "name": "🐜蚂蚁┃直连",
             "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 1,
+            "api": "csp_Mayiys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://rzys.xyz"
+        },
+        {
+            "key": "Xinsj",
+            "name": "👓视觉┃直连",
+            "type": 3,
+            "api": "csp_Xinsj",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://s.ether-mine.com/api.php/app/"
+            "ext": "https://www.6080yy3.com/"
+        },
+        {
+            "key": "率率",
+            "name": "💡率率┃直连",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "categories": [
+                "国产剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "战争片",
+                "恐怖片",
+                "剧情片",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "大陆综艺",
+                "日韩综艺"
+            ]
         },
         {
             "key": "Auete",
@@ -128,6 +179,25 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.zxzj.pro/"
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "🍄比特┃直连",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Lib",
+            "name": "🌟利播┃直连",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.libvio.pro/"
         },
         {
             "key": "贱贱",
@@ -152,6 +222,16 @@
             "ext": "vip.lyyytv.cn"
         },
         {
+            "key": "奇奇",
+            "name": "🍓奇奇┃App",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://mp4.ghlyys.com/api.php/app/"
+        },
+        {
             "key": "哈喽",
             "name": "✌哈喽┃App",
             "type": 3,
@@ -160,26 +240,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
-        },
-        {
-            "key": "陌陌",
-            "name": "🍄陌陌┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://guan.yy365.vip/api.php/app/"
-        },
-        {
-            "key": "奇奇",
-            "name": "🍓奇奇┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://ttsp.live/api.php/app/"
         },
         {
             "key": "DiDuan",
@@ -200,6 +260,26 @@
             "changeable": 1
         },
         {
+            "key": "csp_Nmys",
+            "name": "🌾农民┃直连",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+        },
+        {
+            "key": "Cokemv",
+            "name": "📕可乐┃直连",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "Vofl",
             "name": "🎈VOF┃直连",
             "type": 3,
@@ -207,26 +287,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "🌟利播┃直连",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.fun/"
-        },
-        {
-            "key": "Xinsj",
-            "name": "👓视觉┃直连",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.6080yy3.com/"
         },
         {
             "key": "kuaikan",
@@ -245,37 +305,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "YQKAPP",
-            "name": "🎉一起┃App",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://api-aws.11ty.top"
-        },
-        {
-            "key": "Cokemv",
-            "name": "📕可乐┃直连",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "🌾农民┃直连",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://饭太硬.top/x/json/nmys.json"
         },
         {
             "key": "csp_Ysgc",
@@ -387,32 +416,32 @@
             "changeable": 0
         },
         {
-            "key": "csp_xp_qiumi",
+            "key": "csp_qiumi",
             "name": "⚽ Jrs┃球迷",
             "type": 3,
-            "api": "csp_XPath",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://饭太硬.top/x/xp/dj看球.json"
+            "changeable": 0
         },
         {
-            "key": "csp_XYQBiu_310直播",
+            "key": "csp_310直播",
             "name": "⚽310┃看球",
             "type": 3,
-            "api": "csp_XYQBiu",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://饭太硬.top/x/XYQ/310直播.json"
+            "changeable": 0
         },
         {
             "key": "csp_XPath_企鹅体育",
@@ -426,7 +455,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/xp/企鹅直播.json"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"
         },
         {
             "key": "MV_vod",
@@ -483,14 +512,14 @@
             "changeable": 0
         },
         {
-            "key": "csp_XBPQ_聚短视频",
+            "key": "csp_聚短视频",
             "name": "📽️聚短┃视频",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://饭太硬.top/x/xbpq/短视频.json"
+            "changeable": 0
         },
         {
             "key": "有声小说js",
@@ -619,7 +648,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/少儿教育.json"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"
         },
         {
             "key": "小学课堂",
@@ -633,7 +662,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/小学课堂.json"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/小学课堂.json"
         },
         {
             "key": "初中课堂",
@@ -647,7 +676,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/初中课堂.json"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"
         },
         {
             "key": "高中教育",
@@ -661,7 +690,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.top/x/json/高中课堂.json"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/高中课堂.json"
         },
        
         {
@@ -808,7 +837,8 @@
             "name": "lz",
             "hosts": [
                 "vip.lz",
-                "hd.lz"
+                "hd.lz",
+                "v.cdnlz"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -833,8 +863,7 @@
                 "s5.bfzycdn"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
