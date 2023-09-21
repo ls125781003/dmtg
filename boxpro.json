@@ -2,10 +2,6 @@
 "spider":"./0606.jar",
 //"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 
-"lives":[
-
-
-    
 {
       "name": "live",
       "url": "http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
@@ -40,6 +36,47 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/ygbh1/box/-/raw/main/H/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
+    },{
+            "key": "索尼",
+            "name": "🛸索尼影视",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["动作片",
+            "喜剧片",
+            "爱情片",
+            "科幻片",
+            "恐怖片",
+            "剧情片",
+            "战争片",
+            "国产剧",
+            "欧美剧",
+            "韩剧",
+            "日剧",
+            "港剧",
+            "台剧",
+	     "泰剧",
+	     "记录片",
+            "海外剧",
+            "大陆综艺",
+	    "日韩综艺",
+	    "港台综艺",
+	    "欧美综艺",
+	     "足球",
+	    "影视解说",
+            "国产动漫"
+          ]
+        },{ "key":"sp368",
+      "name":"📺360影视(弹幕）",
+      "type":3,
+      "api":"csp_Sp360",
+      "searchable":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/921.jar"
     },
    {"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63303/TVB%E4%BA%91%E6%92%AD%28xBPQ%29.json?sign=D7u6b1vB57heVQdexskilQyAnu6CAOY0J1gIxm0wDvs%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},{"key":"csp_WoGG","name":"📀阿里玩偶|4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/f.jar"},
 
@@ -797,10 +834,12 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/bil/%e9%ab%98%e4%b8%ad%e8%af%be%e5%a0%82.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/XYQ.jar"
     },
 {      "key": "csp_Dm84",      "name": "🚌动漫巴士",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Anime1",      "name": "🐾日本动漫",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
-    
+  
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
      
 ],
+
+
 
 
 
