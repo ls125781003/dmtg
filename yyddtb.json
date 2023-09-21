@@ -30,15 +30,6 @@
             "ext": "https://bitbucket.org/xduo/json/raw/master/zb.json"
         },
         {
-            "key": "MV_vod",
-            "name": "🎹┃MTV┃合集",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "js_ikanbot2",
             "name": "🤖┃爱看┃机器",
             "type": 3,
@@ -105,14 +96,14 @@
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
         {
-            "key": "js_悠米",
-            "name": "🎉‍┃悠米┃搜视",
+            "key": "js_star",
+            "name": "🌟‍┃星辰┃影视",
             "type": 3,
             "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/youmi.js"
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
         },
         {
             "key": "csp_aidi",
@@ -132,32 +123,24 @@
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
         },
         {
-            "key": "csp_mayi",
-            "name": "🐜┃蚂蚁┃影视",
+            "key": "js_nangua",
+            "name": "🎃┃南瓜┃影视",
             "type": 3,
-            "playerType": 2,
             "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/mayi.js"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
         },
         {
-            "key": "csp_蘑菇影视",
-            "name": "🍄┃蘑菇┃影视",
+            "key": "csp_lianyu",
+            "name": "🌧┃恋雨┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://11111111.moguys.xyz/api.php/app/"
-        },
-        {
-            "key": "csp_365影视",
-            "name": "🦛┃365┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://guan.yy365.vip/api.php/app/"
+            "changeable": 1,
+            "ext": "http://mp4.ghlyys.com/api.php/app/"
         },
         {
             "key": "csp_beijihu",
@@ -168,6 +151,42 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "csp_SNzy",
+            "name": "🐉┃索尼┃高清",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
         },
         {
             "key": "cjzy_暴风资源",
@@ -194,26 +213,6 @@
                 "喜剧片",
                 "战争片"
             ]
-        },
-        {
-            "key": "csp_woggcli",
-            "name": "💂‍┃玩偶┃磁力",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-        },
-        {
-            "key": "聚搜磁力",
-            "name": "🍵‍┃聚搜┃磁力",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/ali/cli_Alii",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "csp_WoGG",
@@ -365,23 +364,13 @@
         },
         {
             "key": "csp_茉莉",
-            "name": "🌼┃茉莉┃EXO",
+            "name": "🌼┃茉莉┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://bitbucket.org/xduo/json/raw/master/moli.json"
-        },
-        {
-            "key": "csp_御龙",
-            "name": "🐉┃御龙┃高清",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
         },
         {
             "key": "csp_奇优",
@@ -557,16 +546,6 @@
             "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ddys.js"
         },
         {
-            "key": "js_稀饭",
-            "name": "🍚┃稀饭┃影视",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/稀饭.js"
-        },
-        {
             "key": "Kuaikan",
             "name": "🦋┃快看┃影视",
             "type": 3,
@@ -661,16 +640,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "drpy_js_创艺",
-            "name": "🍸️┃创艺┃影视",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/chuangyi.js"
         },
         {
             "key": "360_spider",
@@ -1010,16 +979,6 @@
             "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/88看球.js"
         },
         {
-            "key": "js_JRS直播",
-            "name": "⚽┃JRS┃直播",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/jrslive.js"
-        },
-        {
             "key": "js_JRKAN直播",
             "name": "🥎┃JRK┃看球",
             "type": 3,
@@ -1211,6 +1170,15 @@
             "ext": "https://bitbucket.org/xduo/json/raw/master/nvtuan.py"
         },
         {
+            "key": "MV_vod",
+            "name": "🎹┃MTV┃合集",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "py_MTV",
             "name": "🅱️┃歌曲┃视频",
             "type": 3,
@@ -1251,13 +1219,14 @@
             "ext": "https://bitbucket.org/xduo/json/raw/master/短视频聚合.json"
         },
         {
-            "key": "csp_Yj1211",
+            "key": "js_Yj1211直播",
             "name": "👑┃直播┃合集",
             "type": 3,
-            "api": "csp_Yj1211",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0,
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/jrslive.js"
         },
         {
             "key": "py_huya",
@@ -1318,6 +1287,102 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
+        },
+        {
+            "key": "js_i275听书",
+            "name": "📚️┃听书┃i275",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/i275.js"
+        },
+        {
+            "key": "js_爱上你听书网",
+            "name": "📚️┃听书┃爱尚",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/aishang.js"
+        },
+        {
+            "key": "js_博看听书",
+            "name": "📚️┃听书┃博看",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/bokan.js"
+        },
+        {
+            "key": "js_海洋听书",
+            "name": "📚️┃听书┃海洋",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/sea.js"
+        },
+        {
+            "key": "js_六月听书",
+            "name": "📚️┃听书┃六月",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/6yue.js"
+        },
+        {
+            "key": "js_听书网",
+            "name": "📚️┃听书┃天天",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/tingshu.js"
+        },
+        {
+            "key": "js_有声小说",
+            "name": "📚️┃听书┃天天",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/yousheng.js"
+        },
+        {
+            "key": "js_中华听书网",
+            "name": "📚️┃听书┃中华",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/zhonghua.js"
         },
         {
             "key": "push_agent",
@@ -1427,7 +1492,7 @@
         {
             "name": "手动解析",
             "type": 1,
-            "url": "http://json.xg688.top/api/?key=ApHG2jGcimQWPOj5mO&url="
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
         },
         {
             "name": "1号线",
