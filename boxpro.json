@@ -2,10 +2,9 @@
 "spider":"./0606.jar",
 //"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 
-"lives":[
 
-
-    
+	
+"lives":[   
 {
       "name": "live",
       "url": "http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
