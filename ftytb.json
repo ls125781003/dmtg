@@ -1,9 +1,9 @@
 {
-    "spider": "./fan.jar",
-    //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
+            "key": "豆豆",
             "name": "🌏豆瓣网",
             "type": 3,
             "api": "csp_DouDou",
@@ -160,6 +160,15 @@
             ]
         },
         {
+            "key": "毛驴",
+            "name": "🍓毛驴┃App",
+            "type": 3,
+            "api": "csp_Maolv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "Auete",
             "name": "🏝奥特┃直连",
             "type": 3,
@@ -218,16 +227,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "vip.lyyytv.cn"
-        },
-        {
-            "key": "奇奇",
-            "name": "🍓奇奇┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://mp4.ghlyys.com/api.php/app/"
         },
         {
             "key": "哈喽",
