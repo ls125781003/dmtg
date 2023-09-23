@@ -4,8 +4,7 @@
     //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
-         
-            "key": "豆豆",
+        {
             "name": "🌏豆瓣网",
             "type": 3,
             "api": "csp_DouDou",
