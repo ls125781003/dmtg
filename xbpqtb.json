@@ -1,6 +1,5 @@
 {
-    "spider": "./fan.jar",
-    //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
+   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
     "wallpaper": "http://xhww.fun:63/img.php",
     "sites": [
         {
