@@ -1,7 +1,6 @@
 {
-    "spider": "./Yoursmile.jar",
- 
-    //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;80A411526553C11C96AC66D55E84A4B7",
+    //"spider": "./Yoursmile.jar",
+    "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;80A411526553C11C96AC66D55E84A4B7",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
