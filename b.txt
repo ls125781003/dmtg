@@ -52,14 +52,7 @@
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "云星日记"
         },                  
-        {
-            "url": "http://miaotvs.cn/meow",
-            "name": "喵影视"
-        },
-        {
-            "url": "https://源享家.ml/23424",
-            "name": "源享家"
-        }, 
+        
         {
             "url": "http://8.210.232.168/xc.json",
             "name": "星辰"
