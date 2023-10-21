@@ -3,10 +3,7 @@
        {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
             "name": "yydd备用"
-        },  {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ddtb.json",
-            "name": "dd备用"
-        }, 
+        },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/fmbftb.json",
             "name": "fm备用"
