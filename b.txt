@@ -37,10 +37,6 @@
             "name": "蚂蚁论坛"
         },                                
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-            "name": "月光宝盒"
-        },
-        {
             "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
             "name": "欧歌"
         },        
