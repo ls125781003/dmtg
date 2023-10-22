@@ -26,7 +26,15 @@
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
-            "name": "dr_js备用"
+            "name": "道长js备份"
+        },
+	 {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/Yoursmile/XC.json",
+            "name": "南风备份"
+        },
+	 {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/qiaoji/qjtvbox.json",
+            "name": "巧计备份"
         },
         {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
