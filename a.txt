@@ -34,7 +34,7 @@
             "name": "肥猫_2"
         },    
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "蜂蜜"
         },                                                               
         {
@@ -50,7 +50,7 @@
             "name": "俊佬"
         },     
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "霜辉月明"
         },
         {
@@ -58,7 +58,7 @@
             "name": "dxawi0"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "老刘备"
         },        
         { 
