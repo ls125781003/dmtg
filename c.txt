@@ -1,15 +1,15 @@
 {
     "urls": [ 
           {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/甜蜜.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/甜蜜.json",
             "name": "甜蜜js"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py甜蜜.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py甜蜜.json",
             "name": "甜蜜py"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
             "name": "一木"
         },
          {
@@ -21,7 +21,7 @@
             "name": "猫爪[可能失效]"
         },
          {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
             "name": "业余[可能失效]"
         },
          {
@@ -37,11 +37,11 @@
             "name": "乱世[可能失效]"
         }, 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
             "name": "一影视[可能失效]"
        },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
             "name": "佰欣园[可能失效]"
         },
       
