@@ -1,47 +1,47 @@
 {
     "urls": [
        {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
             "name": "yydd备用"
         },
         {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/fmbftb.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/fmbftb.json",
             "name": "fm备用"
         }, 
 	{
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/xbpqtb.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/xbpqtb.json",
             "name": "xbpq备用"
         }, 
         {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/ftytb.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/ftytb.json",
             "name": "fty备用"
         },
         {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQ.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQ.json",
             "name": "香雅情"
         },
         {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQTVBox.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQTVBox.json",
             "name": "香雅情[转码在前]"
         },
         {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
             "name": "道长js备份"
         },
 	 {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/Yoursmile/XC.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/Yoursmile/XC.json",
             "name": "南风备份"
         },
 	 {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/testbox/main/qiaoji/qjtvbox.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/qiaoji/qjtvbox.json",
             "name": "巧计备份"
         },
         {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
             "name": "阿里合集备用"
         },
         {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
             "name": "nanfeng备用"
         }, 
        {
