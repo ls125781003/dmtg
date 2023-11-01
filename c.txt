@@ -12,6 +12,10 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
             "name": "一木"
         },
+         {
+            "url": "http://101.34.67.237/config/1",
+            "name": "小雅[可能失效]"
+        }, 
         {
             "url":"https://download.kstore.space/download/3313/mao/ymz",
             "name": "夜猫子[可能失效]"
