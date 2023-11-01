@@ -1,7 +1,7 @@
 {
     "urls": [  
         {
-            "url": "http://cdn.yydsys.top/duo",
+            "url": "https://cloud.lxweb.cn/f/MoJNuG/xm.json",
             "name": "应用多多备用"
         },
          {
