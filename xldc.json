@@ -1,7 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"小刘多仓①[优+]","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/a.txt"},
-{"sourceName":"小刘多仓②[优]","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/b.txt"},
-{"sourceName":"小刘多仓③[一般]","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/c.txt"},
-{"sourceName":"小刘多仓④[优+]","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/d.txt"}
+{"sourceName":"小刘多仓①[优+]","sourceUrl":"https://raw.githubusercontent.com/ls125781003/dmtg/main/a.txt"},
+{"sourceName":"小刘多仓②[优]","sourceUrl":"https://raw.githubusercontent.com/ls125781003/dmtg/main/b.txt"},
+{"sourceName":"小刘多仓③[一般]","sourceUrl":"https://raw.githubusercontent.com/ls125781003/dmtg/main/c.txt"},
+{"sourceName":"小刘多仓④[优+]","sourceUrl":"https://raw.githubusercontent.com/ls125781003/dmtg/main/d.txt"}
 ]}
