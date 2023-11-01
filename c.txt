@@ -5,7 +5,7 @@
             "name": "猫爪线路"
         },
          {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json",
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
             "name": "业余线路"
         },
         {
