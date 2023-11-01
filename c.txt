@@ -1,30 +1,6 @@
 {
     "urls": [ 
-      //   {
-      //      "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-      //      "name": "猫爪线路"
-      //  },
-      //   {
-      //      "url":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
-     //       "name": "业余线路"
-     //   },
-        {
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
-            "name": "不良帅"
-        },         
-      //  {
-      //     "url": "http://www.dmtv.ml/mao/single.json",
-     //       "name": "乱世"
-    //    }, 
-    //    {
-     //       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-     //       "name": "一影视"
-     //   },
-     //   {
-     //       "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
-      //      "name": "佰欣园"
-     //   },
-        {
+          {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/甜蜜.json",
             "name": "甜蜜js"
         },
@@ -35,7 +11,32 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
             "name": "一木"
-        },        
+        },         
+        {
+            "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
+            "name": "猫爪线路"
+        },
+         {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
+            "name": "业余线路"
+        },
+        {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
+            "name": "不良帅"
+        },         
+        {
+           "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "乱世"
+        }, 
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+            "name": "一影视"
+       },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "name": "佰欣园"
+        },
+      
         {
             "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
             "name": "kvymin"
