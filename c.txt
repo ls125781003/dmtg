@@ -17,10 +17,6 @@
             "name": "小雅[可能失效]"
         }, 
         {
-            "url":"https://download.kstore.space/download/3313/mao/ymz",
-            "name": "夜猫子[可能失效]"
-        },
-        {
             "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
             "name": "猫爪[可能失效]"
         },
