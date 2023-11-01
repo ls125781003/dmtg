@@ -61,10 +61,6 @@
          {
             "url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json",
             "name": "胖鸭"
-        },
-        {
-            "url": "https://www.lianyingtv.com/fast/fast",
-            "name": "恋影"
         }		
     ]
 }
