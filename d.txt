@@ -44,10 +44,7 @@
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
             "name": "nanfeng备用"
         },
-        {
-            "url":"https://download.kstore.space/download/3313/mao/ymz",
-            "name": "夜猫子"
-        },
+       
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
             "name": "荷城茶秀git"
