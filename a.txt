@@ -32,12 +32,7 @@
          {
             "url": "http://肥猫.love",
             "name": "肥猫_2"
-        },
-
-        {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "唐三"
-        },      
+        },    
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "蜂蜜"
