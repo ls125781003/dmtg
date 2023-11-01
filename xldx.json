@@ -77,11 +77,11 @@
             "name": "多多_2"
         },
         {
-	    "url": "https://gitee.com/lekanbox/ali/raw/master/api.json",
+	    "url": "http://weixine.link:33/api.json",
 	    "name": "阿里巴巴[运输车]"
 	},
 	{
-	    "url": "https://gitee.com/lekanbox/ali/raw/master/ali.json",
+	    "url": "http://weixine.link:33/ali.json",
 	    "name": "阿里无敌[运输车]"
 	},
 	{
