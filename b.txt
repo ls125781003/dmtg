@@ -33,6 +33,11 @@
             "name": "南风"
         },
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/ygbox.json",
+            "name": "月光宝盒"
+        },
+
+        {
             "url": "https://la.kstore.space/download/2883/0110.txt",
             "name": "蚂蚁论坛"
         },                                
