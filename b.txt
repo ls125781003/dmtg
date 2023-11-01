@@ -13,7 +13,7 @@
 	    "name": "阿里巴巴[运输车]"
 	},
 	{
-	    "url": http://weixine.link:33/ali.json",
+	    "url": "http://weixine.link:33/ali.json",
 	    "name": "阿里无敌[运输车]"
 	},
 	{
