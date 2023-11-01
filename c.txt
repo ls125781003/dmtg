@@ -1,5 +1,13 @@
 {
     "urls": [ 
+         {
+            "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
+            "name": "猫爪线路"
+        },
+         {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json",
+            "name": "业余线路"
+        },
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
             "name": "不良帅"
