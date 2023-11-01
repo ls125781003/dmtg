@@ -24,6 +24,10 @@
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
             "name": "业余[可能失效]"
         },
+         {
+            "url": "https://ju.binghe.ga/4.txt",
+            "name": "冰河[可能失效]"
+        },
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
             "name": "不良帅"
