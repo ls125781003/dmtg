@@ -1,7 +1,9 @@
+//此多仓整理自网络，分享于公众号‘小刘共享窝’，分级优+的基本大多订阅可用且比较优质，失效较少，优的失效较少，但是不够优质。一般的订阅有的失效较多，有的屏蔽较多，有的需要特定软件上使用。
+
 {
 "storeHouse": [
-{"sourceName":"小刘多仓1","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/a.txt"},
-{"sourceName":"小刘多仓2","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/b.txt"},
-{"sourceName":"小刘多仓3","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/c.txt"},
-{"sourceName":"小刘多仓4","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/d.txt"}
+{"sourceName":"小刘多仓①[优+]","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/a.txt"},
+{"sourceName":"小刘多仓②[优]","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/b.txt"},
+{"sourceName":"小刘多仓③[一般]","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/c.txt"},
+{"sourceName":"小刘多仓④[优+]","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/d.txt"}
 ]}
