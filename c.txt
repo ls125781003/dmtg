@@ -14,11 +14,11 @@
         },         
         {
             "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-            "name": "猫爪线路"
+            "name": "猫爪[可能失效]"
         },
          {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
-            "name": "业余线路"
+            "name": "业余[可能失效]"
         },
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
@@ -26,15 +26,15 @@
         },         
         {
            "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "乱世"
+            "name": "乱世[可能失效]"
         }, 
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-            "name": "一影视"
+            "name": "一影视[可能失效]"
        },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
-            "name": "佰欣园"
+            "name": "佰欣园[可能失效]"
         },
       
         {
@@ -55,11 +55,11 @@
         },
           {
             "url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
-            "name": "刺桐"
+            "name": "刺桐[可能失效]"
         },
           {
             "url":"https://xzam.cn/tv",
-            "name": "小胡"
+            "name": "小胡[可能失效]"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
