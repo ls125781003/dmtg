@@ -4,10 +4,6 @@
             "url": "http://cdn.yydsys.top/duo",
             "name": "应用多多备用"
         },
-        {
-            "url": "http://101.34.67.237/config/1",
-            "name": "小雅"
-        },  
          {
 	    "url": "http://weixine.link:33/api.json",
 	    "name": "阿里巴巴[运输车]"
