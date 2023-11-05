@@ -46,6 +46,15 @@
             ]
         },
         {
+            "key": "wogg_T4",
+            "name": "💂‍┃玩偶┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Wogg",
             "name": "💂‍┃阿里┃玩偶",
             "type": 3,
@@ -178,7 +187,7 @@
         },
         {
             "key": "提示",
-            "name": "同步于10月31日",
+            "name": "同步于2023/11/06",
             "type": 3,
             "api": "360",
             "searchable": 1,
@@ -187,7 +196,7 @@
         },
         {
             "key": "说明",
-            "name": "请勿相信视频中任何广告",
+            "name": "软件接口完全免费",
             "type": 3,
             "api": "360",
             "searchable": 1,
@@ -197,92 +206,48 @@
     ],
     "rules": [
         {
-            "name": "農民嗅探",
+            "name": "wowo",
             "hosts": [
-                "toutiaovod.com"
+                "vip.123pan.cn",
+                "rescdn.wuxivlog.cn"
             ],
             "regex": [
-                "video/tos/cn"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {
-            "name": "proxy",
+            "name": "CL",
             "hosts": [
-                "raw.githubusercontent.com",
-                "googlevideo.com",
-                "cdn.v82u1l.com",
-                "cdn.iz8qkg.com",
-                "cdn.kin6c1.com",
-                "c.biggggg.com",
-                "c.olddddd.com",
-                "haiwaikan.com",
-                "www.histar.tv",
-                "youtube.com",
-                "uhibo.com",
-                ".*boku.*",
-                ".*nivod.*",
-                ".*ulivetv.*"
-            ]
-        },
-        {
-            "name": "海外看",
-            "hosts": [
-                "haiwaikan"
+                "magnet"
             ],
             "regex": [
-                "8.1748",
-                "10.0099",
-                "10.3333"
+                "最 新",
+                "直 播",
+                "更 新"
             ]
         },
         {
-            "name": "暴风廣告",
+            "name": "锁你",
             "hosts": [
-                "bfzy",
-                "s5.bfzycdn"
+                "suonizy"
+            ],
+            "regex": [
+                "15.1666"
+            ]
+        },
+        {
+            "name": "抱疯",
+            "hosts": [
+                "bfzy"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
-            "name": "磁力廣告",
-            "hosts": [
-                "magnet"
-            ],
-            "regex": [
-                "更多",
-                "社區",
-                "xuu",
-                "最新",
-                "最新",
-                "直播",
-                "更新",
-                "社区",
-                "有趣",
-                "有趣",
-                "英皇体育",
-                "全中文AV在线",
-                "澳门皇冠赌场",
-                "哥哥快来",
-                "美女荷官",
-                "裸聊",
-                "新片首发",
-                "UUE29"
-            ]
-        },
-        {
-            "name": "星星",
-            "hosts": [
-                "aws.ulivetv.net"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "量子廣告",
+            "name": "亮子",
             "hosts": [
                 "vip.lz",
                 "hd.lz",
@@ -294,7 +259,7 @@
             ]
         },
         {
-            "name": "非凡廣告",
+            "name": "飞幡",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
@@ -305,7 +270,7 @@
             ]
         },
         {
-            "name": "火山嗅探",
+            "name": "伙散",
             "hosts": [
                 "huoshan.com"
             ],
@@ -314,12 +279,21 @@
             ]
         },
         {
-            "name": "抖音嗅探",
+            "name": "痘印",
             "hosts": [
                 "douyin.com"
             ],
             "regex": [
                 "is_play_url="
+            ]
+        },
+        {
+            "name": "农民",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
             ]
         }
     ],
@@ -785,9 +759,81 @@
         }
     ],
     "ads": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*",
         "wan.51img1.com",
         "iqiyi.hbuioo.com",
         "vip.ffzyad.com",
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com",
+        "api.htpan.net",
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
