@@ -16,14 +16,31 @@
       "apiUrl": "https://im1907.top/?jx={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
     },      
-     "左岸": {
+     "777": {
       "apiUrl": "https://jx.jsonplayer.com/player/?url={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
-    },   
+    },    
       "爱豆": {
       "apiUrl": "https://jx.aidouer.net/?url={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
     },   
+     "爱酷": {
+      "apiUrl": "https://jx.zhanlangbu.com/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },   
+     "云解析": {
+      "apiUrl": "https://jx.yparse.com/index.php?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },  
+     "剖云": {
+      "apiUrl": "https://www.kkvip2022.com/vip/jiexi1/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },  
+     "全看": {
+      "apiUrl": "https://jx.quankan.app/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },  
+
      "虾米": {
       "apiUrl": "https://jx.xmflv.com/?url={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
