@@ -16,7 +16,7 @@
       "apiUrl": "https://im1907.top/?jx={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
     },      
-     "B站1": {
+     "左岸": {
       "apiUrl": "https://jx.jsonplayer.com/player/?url={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
     },   
@@ -40,10 +40,36 @@
       "apiUrl": "https://jx.dj6u.com/?url={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
     },
-    "听乐": {
-      "apiUrl": "https://jx.dj6u.com/?url={ItemUrlOrId}",
+    "夜幕": {
+      "apiUrl": "https://www.yemu.xyz/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+
+    "江湖": {
+      "apiUrl": "http://27.124.4.42:4567/jhjson/ceshi.php?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+    "tx": {
+      "apiUrl": "http://119.91.31.224:82/txqq.php?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+    "咸鱼": {
+      "apiUrl": "https://jx.xyflv.com/?url={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
     },   
+    "左岸2": {
+      "apiUrl": "https://jx.777jiexi.com/player/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+    "365": {
+      "apiUrl": "https://chaxun.truechat365.com/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+    "parwix": {
+      "apiUrl": "https://jx.bozrc.com:4433/player/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+
      "YT": {
       "apiUrl": "https://jx.yangtu.top/?url={ItemUrlOrId}",
       "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
