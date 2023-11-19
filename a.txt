@@ -12,10 +12,7 @@
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬_3"
         },
-        { 
-             "url": "http://xhww.fun:63/小米/DEMO.json", 
-             "name": "小暴脾气" 
-         },              
+        
         {
             "url": "https://yydsys.top/duo",
             "name": "应用多多家庭版"
@@ -24,15 +21,7 @@
             "url": "https://yydsys.top/duo/ali",
             "name": "多多阿里专线"
         }, 
-        
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "肥猫_1"
-        },
-         {
-            "url": "http://肥猫.love",
-            "name": "肥猫_2"
-        },    
+       
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "蜂蜜"
