@@ -1,48 +1,48 @@
 {
     "urls": [
         {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
             "name": "yydd备用"
         }, 
         {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/ftytb.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/ftytb.json",
             "name": "fty备用"
         },
         {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQ.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQ.json",
             "name": "香雅情"
         },
         {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQTVBox.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQTVBox.json",
             "name": "香雅情[转码在前]"
         },
          {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/fty/fty.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/fty/fty.json",
             "name": "饭太硬备份"
         },
         {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/drpy_js/drjs_config.json",
             "name": "道长js备份"
         },
 	    {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/Yoursmile/XC.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/Yoursmile/XC.json",
             "name": "南风备份"
         },
 	    {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/testbox/main/qiaoji/qjtvbox.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/qiaoji/qjtvbox.json",
             "name": "巧计备份"
         },
         {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
             "name": "阿里合集备用"
         },
         {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
             "name": "nanfeng备用"
         },
        
           {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
             "name": "荷城茶秀git"
         }, 
        {
@@ -50,11 +50,11 @@
             "name": "荷城茶秀"
         }, 
           {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高天流云"
         }, 
           {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
             "name": "Yosakoii"
         }
          
