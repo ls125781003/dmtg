@@ -1,13 +1,5 @@
 {
     "urls": [
-       {
-            "url":"./yyddtb.json",
-            "name": "yydd备用"
-        },
-        {
-            "url":"./ftytb.json",
-            "name": "fty备用"
-        },
         {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQ.json",
             "name": "香雅情"
@@ -32,14 +24,6 @@
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/qiaoji/qjtvbox.json",
             "name": "巧计备份"
         },
-        {
-            "url":"./box.txt",
-            "name": "阿里合集备用"
-        },
-        {
-            "url":./nanfengtb.json",
-            "name": "nanfeng备用"
-        }, 
        {
             "url": "http://fan.xxooo.cf/tv",
             "name": "饭太硬_1"
