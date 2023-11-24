@@ -39,7 +39,7 @@
             "name": "俊佬"
         },     
         {
-            "url": https://github.moeyy.xyz/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "霜辉月明"
         },
         {
