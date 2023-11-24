@@ -1,11 +1,11 @@
 {
     "urls": [
        {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
+            "url":"./yyddtb.json",
             "name": "yydd备用"
         },
         {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/ftytb.json",
+            "url":"./ftytb.json",
             "name": "fty备用"
         },
         {
@@ -33,11 +33,11 @@
             "name": "巧计备份"
         },
         {
-            "url":https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
+            "url":"./box.txt",
             "name": "阿里合集备用"
         },
         {
-            "url":https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
+            "url":./nanfengtb.json",
             "name": "nanfeng备用"
         }, 
        {
