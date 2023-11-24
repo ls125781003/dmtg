@@ -29,7 +29,7 @@
             "name": "南风"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/ygbox.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/YGBH/main/ygbox.json",
             "name": "月光宝盒"
         },
 
