@@ -1,14 +1,6 @@
 {
     "urls": [
         {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/yyddtb.json",
-            "name": "yydd备用"
-        }, 
-        {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/ftytb.json",
-            "name": "fty备用"
-        },
-        {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/XYQ.json",
             "name": "香雅情"
         },
@@ -32,15 +24,6 @@
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testbox/main/qiaoji/qjtvbox.json",
             "name": "巧计备份"
         },
-        {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/box.txt",
-            "name": "阿里合集备用"
-        },
-        {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/dmtg/main/nanfengtb.json",
-            "name": "nanfeng备用"
-        },
-       
           {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
             "name": "荷城茶秀git"
