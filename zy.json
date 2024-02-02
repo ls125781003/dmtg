@@ -2110,6 +2110,30 @@
       "status": true,
       "type": 3,
       "id": 124
+    },
+    {
+      "key": "643043a5-4f08-5313-bc7f-1385967ad6cd",
+      "name": "腐宅",
+      "api": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod",
+      "download": "",
+      "playUrl": "",
+      "group": "app",
+      "search": 1,
+      "status": true,
+      "type": 3,
+      "id": 125
+    },
+    {
+      "key": "643043a5-4f08-5313-bc7e-1385967ad6cd",
+      "name": "暴风",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "download": "",
+      "playUrl": "",
+      "group": "切片",
+      "search": 1,
+      "status": true,
+      "type": 3,
+      "id": 126
     }
   ],
   "drive": [
@@ -2248,8 +2272,8 @@
       "iptvStatus": true,
       "dns": "https://sm2.doh.pub/dns-query",
       "webdevUrl": "https://dav.jianguoyun.com/dav/",
-      "webdevUsername": "wy-hai@qq.com",
-      "webdevPassword": "ai4ymsm38zc4y7c7",
+      "webdevUsername": "",
+      "webdevPassword": "",
       "snifferType": "pie",
       "defaultDrive": 33
     }
