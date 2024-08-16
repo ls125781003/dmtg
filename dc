@@ -1,6 +1,6 @@
 {
 "storeHouse": [
-{"sourceName":"小刘本地转线上多线","sourceUrl":"https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
-{"sourceName":"奇奇乐多线","sourceUrl":"https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/qqctg/main/dc"},
-{"sourceName":"小刘收集整理多线","sourceUrl":"https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/dmtg/main/sjdx.json"}
+{"sourceName":"小刘本地转线上多线","sourceUrl":"https://jsdelivr.b-cdn.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
+{"sourceName":"奇奇乐多线","sourceUrl":"https://jsdelivr.b-cdn.net/https://raw.githubusercontent.com/ls125781003/qqctg/main/dc"},
+{"sourceName":"小刘收集整理多线","sourceUrl":"https://jsdelivr.b-cdn.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/sjdx.json"}
 ]}
